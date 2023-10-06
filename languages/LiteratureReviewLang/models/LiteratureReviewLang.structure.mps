@@ -87,6 +87,11 @@
       <property role="TrG5h" value="key" />
       <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
     </node>
+    <node concept="1TJgyi" id="hCjQGZq5ew" role="1TKVEl">
+      <property role="IQ2nx" value="317591095773516704" />
+      <property role="TrG5h" value="classification" />
+      <ref role="AX2Wp" node="hCjQGZq5a6" resolve="Classification" />
+    </node>
   </node>
   <node concept="1TIwiD" id="hCjQGZpcG0">
     <property role="EcuMT" value="317591095773285120" />
@@ -118,6 +123,18 @@
       <property role="TrG5h" value="url" />
       <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
     </node>
+    <node concept="1TJgyi" id="hCjQGZpNd8" role="1TKVEl">
+      <property role="IQ2nx" value="317591095773442888" />
+      <property role="TrG5h" value="author" />
+      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
+    </node>
+    <node concept="1TJgyj" id="hCjQGZpNbW" role="1TKVEi">
+      <property role="IQ2ns" value="317591095773442812" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="notes" />
+      <property role="20lbJX" value="fLJekj5/_0__n" />
+      <ref role="20lvS9" to="zqge:2cLqkTm6J5A" resolve="Line" />
+    </node>
   </node>
   <node concept="25R3W" id="hCjQGZpf9M">
     <property role="3F6X1D" value="317591095773295218" />
@@ -135,6 +152,36 @@
     <node concept="25R33" id="hCjQGZpfbr" role="25R1y">
       <property role="3tVfz5" value="317591095773295323" />
       <property role="TrG5h" value="Default" />
+    </node>
+  </node>
+  <node concept="25R3W" id="hCjQGZq5a6">
+    <property role="3F6X1D" value="317591095773516422" />
+    <property role="3GE5qa" value="source" />
+    <property role="TrG5h" value="Classification" />
+    <ref role="1H5jkz" node="hCjQGZq5c9" resolve="Unclassified" />
+    <node concept="25R33" id="hCjQGZq5a7" role="25R1y">
+      <property role="3tVfz5" value="317591095773516423" />
+      <property role="TrG5h" value="StandardAccept" />
+    </node>
+    <node concept="25R33" id="hCjQGZq5bH" role="25R1y">
+      <property role="3tVfz5" value="317591095773516525" />
+      <property role="TrG5h" value="Accept" />
+    </node>
+    <node concept="25R33" id="hCjQGZq5bz" role="25R1y">
+      <property role="3tVfz5" value="317591095773516515" />
+      <property role="TrG5h" value="Review" />
+    </node>
+    <node concept="25R33" id="hCjQGZq5dr" role="25R1y">
+      <property role="3tVfz5" value="317591095773516635" />
+      <property role="TrG5h" value="Duplicate" />
+    </node>
+    <node concept="25R33" id="hCjQGZq5dJ" role="25R1y">
+      <property role="3tVfz5" value="317591095773516655" />
+      <property role="TrG5h" value="Reject" />
+    </node>
+    <node concept="25R33" id="hCjQGZq5c9" role="25R1y">
+      <property role="3tVfz5" value="317591095773516553" />
+      <property role="TrG5h" value="Unclassified" />
     </node>
   </node>
 </model>
