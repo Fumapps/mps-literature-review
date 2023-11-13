@@ -44,6 +44,7 @@
         <child id="1071489727083" name="linkDeclaration" index="1TKVEi" />
         <child id="1071489727084" name="propertyDeclaration" index="1TKVEl" />
       </concept>
+      <concept id="1169125989551" name="jetbrains.mps.lang.structure.structure.InterfaceConceptDeclaration" flags="ig" index="PlHQZ" />
       <concept id="1169127622168" name="jetbrains.mps.lang.structure.structure.InterfaceConceptReference" flags="ig" index="PrWs8">
         <reference id="1169127628841" name="intfc" index="PrY4T" />
       </concept>
@@ -112,26 +113,55 @@
     <property role="3GE5qa" value="source" />
     <property role="19KtqR" value="true" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" />
-    <node concept="1TJgyj" id="hCjQGZpdVO" role="1TKVEi">
-      <property role="IQ2ns" value="317591095773290228" />
+    <node concept="1TJgyj" id="7fQvVxPb3bo" role="1TKVEi">
+      <property role="IQ2ns" value="8356006588849074904" />
+      <property role="20kJfa" value="benefits" />
+      <property role="20lbJX" value="fLJekj5/_0__n" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="notes" />
-      <property role="20lbJX" value="fLJekj6/_1__n" />
-      <ref role="20lvS9" to="zqge:2cLqkTm6J5A" resolve="Line" />
+      <ref role="20lvS9" node="7fQvVxPbrt2" resolve="BenefitCriteriaRef" />
+    </node>
+    <node concept="1TJgyj" id="7fQvVxPb3bq" role="1TKVEi">
+      <property role="IQ2ns" value="8356006588849074906" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="contras" />
+      <property role="20lbJX" value="fLJekj5/_0__n" />
+      <ref role="20lvS9" node="7fQvVxPbrt4" resolve="ContraCriteriaRef" />
+    </node>
+    <node concept="1TJgyj" id="7fQvVxPb3bt" role="1TKVEi">
+      <property role="IQ2ns" value="8356006588849074909" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="designCriterias" />
+      <property role="20lbJX" value="fLJekj5/_0__n" />
+      <ref role="20lvS9" node="7fQvVxPbrt6" resolve="DesignCriteriaRef" />
+    </node>
+    <node concept="1TJgyj" id="7fQvVxPbVc7" role="1TKVEi">
+      <property role="IQ2ns" value="8356006588849304327" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="technologySpecifics" />
+      <property role="20lbJX" value="fLJekj5/_0__n" />
+      <ref role="20lvS9" node="7fQvVxPct17" resolve="TechnologyRef" />
     </node>
     <node concept="PrWs8" id="hCjQGZpcFK" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+    <node concept="PrWs8" id="7fQvVxPb3bf" role="PzmwI">
+      <ref role="PrY4T" node="7fQvVxPb3b9" resolve="IHaveNotes" />
     </node>
     <node concept="1TJgyi" id="hCjQGZpf7P" role="1TKVEl">
       <property role="IQ2nx" value="317591095773295093" />
       <property role="TrG5h" value="key" />
       <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
     </node>
+    <node concept="1TJgyi" id="7fQvVxPbgLY" role="1TKVEl">
+      <property role="IQ2nx" value="8356006588849130622" />
+      <property role="TrG5h" value="standardDefinition" />
+      <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
+    </node>
   </node>
   <node concept="1TIwiD" id="hCjQGZpf4A">
     <property role="EcuMT" value="317591095773294886" />
-    <property role="TrG5h" value="PaperSource" />
-    <property role="34LRSv" value="paper" />
+    <property role="TrG5h" value="ScholarSource" />
+    <property role="34LRSv" value="scholar" />
     <property role="3GE5qa" value="source.paper" />
     <property role="19KtqR" value="true" />
     <ref role="1TJDcQ" node="hCjQGZpcDE" resolve="LiteratureSource" />
@@ -167,7 +197,7 @@
   </node>
   <node concept="25R3W" id="hCjQGZpf9M">
     <property role="3F6X1D" value="317591095773295218" />
-    <property role="TrG5h" value="PaperType" />
+    <property role="TrG5h" value="ScholarType" />
     <property role="3GE5qa" value="source.paper" />
     <ref role="1H5jkz" node="hCjQGZpfbr" resolve="Default" />
     <node concept="25R33" id="hCjQGZpf9N" role="25R1y">
@@ -184,13 +214,13 @@
     </node>
     <node concept="25R33" id="hCjQGZpfbr" role="25R1y">
       <property role="3tVfz5" value="317591095773295323" />
-      <property role="TrG5h" value="Default" />
+      <property role="TrG5h" value="Undefined" />
     </node>
   </node>
   <node concept="1TIwiD" id="3N9eFDIQ$Fz">
     <property role="EcuMT" value="4380096684992645859" />
     <property role="TrG5h" value="WebsiteSource" />
-    <property role="34LRSv" value="paper" />
+    <property role="34LRSv" value="website" />
     <property role="3GE5qa" value="source.website" />
     <property role="19KtqR" value="true" />
     <ref role="1TJDcQ" node="hCjQGZpcDE" resolve="LiteratureSource" />
@@ -215,6 +245,12 @@
       <property role="20kJfa" value="summary" />
       <property role="20lbJX" value="fLJekj5/_0__n" />
       <ref role="20lvS9" to="zqge:2cLqkTm6J5A" resolve="Line" />
+    </node>
+    <node concept="1TJgyj" id="7fQvVxPbbAv" role="1TKVEi">
+      <property role="IQ2ns" value="8356006588849109407" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="chatGptScan" />
+      <ref role="20lvS9" to="zqge:2cLqkTm6vgh" resolve="Text" />
     </node>
     <node concept="1irR5M" id="3N9eFDIRahS" role="rwd14">
       <property role="2$rrk2" value="3" />
@@ -243,9 +279,184 @@
       <property role="3tVfz5" value="4380096684992645866" />
       <property role="TrG5h" value="Forum" />
     </node>
+    <node concept="25R33" id="7fQvVxPb8_t" role="25R1y">
+      <property role="3tVfz5" value="8356006588849097053" />
+      <property role="TrG5h" value="Tutorial" />
+    </node>
     <node concept="25R33" id="3N9eFDIQ$FH" role="25R1y">
       <property role="3tVfz5" value="4380096684992645869" />
       <property role="TrG5h" value="Undefined" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7fQvVxPb3b3">
+    <property role="EcuMT" value="8356006588849074883" />
+    <property role="3GE5qa" value="source.criteria" />
+    <property role="TrG5h" value="DesignCriteria" />
+    <property role="34LRSv" value="design criteria" />
+    <property role="19KtqR" value="true" />
+    <ref role="1TJDcQ" node="7fQvVxPb3b4" resolve="Criteria" />
+    <node concept="PrWs8" id="7fQvVxPb3b5" role="PzmwI">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+    <node concept="1irR5M" id="7fQvVxPbyp6" role="rwd14">
+      <property role="2$rrk2" value="4" />
+      <node concept="1irR9n" id="7fQvVxPbypb" role="1irR9h">
+        <node concept="3PKj8D" id="7fQvVxPbypc" role="3PKjn_">
+          <property role="3PKj8l" value="FFFFAA" />
+        </node>
+      </node>
+      <node concept="1irPie" id="7fQvVxPbypd" role="1irR9h">
+        <property role="1irPi9" value="D" />
+        <node concept="3PKj8D" id="7fQvVxPbype" role="3PKjny">
+          <property role="3PKj8l" value="000000" />
+        </node>
+      </node>
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7fQvVxPb3b4">
+    <property role="EcuMT" value="8356006588849074884" />
+    <property role="3GE5qa" value="source.criteria" />
+    <property role="TrG5h" value="Criteria" />
+    <property role="R5$K7" value="true" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <node concept="PrWs8" id="7fQvVxPb3AF" role="PzmwI">
+      <ref role="PrY4T" node="7fQvVxPb3b9" resolve="IHaveNotes" />
+    </node>
+    <node concept="PrWs8" id="7fQvVxPbrsN" role="PzmwI">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+  </node>
+  <node concept="PlHQZ" id="7fQvVxPb3b9">
+    <property role="EcuMT" value="8356006588849074889" />
+    <property role="3GE5qa" value="source" />
+    <property role="TrG5h" value="IHaveNotes" />
+    <node concept="1TJgyj" id="7fQvVxPb3ba" role="1TKVEi">
+      <property role="IQ2ns" value="8356006588849074890" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="notes" />
+      <ref role="20lvS9" to="zqge:2cLqkTm6vgh" resolve="Text" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7fQvVxPb3bi">
+    <property role="EcuMT" value="8356006588849074898" />
+    <property role="3GE5qa" value="source.criteria" />
+    <property role="TrG5h" value="BenefitCriteria" />
+    <property role="34LRSv" value="benefit" />
+    <property role="19KtqR" value="true" />
+    <ref role="1TJDcQ" node="7fQvVxPb3b4" resolve="Criteria" />
+    <node concept="PrWs8" id="7fQvVxPb3bj" role="PzmwI">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+    <node concept="1irR5M" id="7fQvVxPbypv" role="rwd14">
+      <property role="2$rrk2" value="6" />
+      <node concept="1irR9n" id="7fQvVxPbypz" role="1irR9h">
+        <node concept="3PKj8D" id="7fQvVxPbyp$" role="3PKjn_">
+          <property role="3PKj8l" value="FFFFAA" />
+        </node>
+      </node>
+      <node concept="1irPie" id="7fQvVxPbyp_" role="1irR9h">
+        <property role="1irPi9" value="B" />
+        <node concept="3PKj8D" id="7fQvVxPbypA" role="3PKjny">
+          <property role="3PKj8l" value="000000" />
+        </node>
+      </node>
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7fQvVxPb3bl">
+    <property role="EcuMT" value="8356006588849074901" />
+    <property role="3GE5qa" value="source.criteria" />
+    <property role="TrG5h" value="ContraCriteria" />
+    <property role="34LRSv" value="contra" />
+    <property role="19KtqR" value="true" />
+    <ref role="1TJDcQ" node="7fQvVxPb3b4" resolve="Criteria" />
+    <node concept="PrWs8" id="7fQvVxPb3bm" role="PzmwI">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+    <node concept="1irR5M" id="7fQvVxPbypj" role="rwd14">
+      <property role="2$rrk2" value="5" />
+      <node concept="1irR9n" id="7fQvVxPbypn" role="1irR9h">
+        <node concept="3PKj8D" id="7fQvVxPbypo" role="3PKjn_">
+          <property role="3PKj8l" value="FFFFAA" />
+        </node>
+      </node>
+      <node concept="1irPie" id="7fQvVxPbypp" role="1irR9h">
+        <property role="1irPi9" value="C" />
+        <node concept="3PKj8D" id="7fQvVxPbypq" role="3PKjny">
+          <property role="3PKj8l" value="000000" />
+        </node>
+      </node>
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7fQvVxPbrt2">
+    <property role="EcuMT" value="8356006588849174338" />
+    <property role="3GE5qa" value="source.criteria" />
+    <property role="TrG5h" value="BenefitCriteriaRef" />
+    <property role="34LRSv" value="-&gt;benefit" />
+    <node concept="1TJgyj" id="7fQvVxPbrt8" role="1TKVEi">
+      <property role="IQ2ns" value="8356006588849174344" />
+      <property role="20kJfa" value="benefit" />
+      <property role="20lbJX" value="fLJekj4/_1" />
+      <ref role="20lvS9" node="7fQvVxPb3bi" resolve="BenefitCriteria" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7fQvVxPbrt4">
+    <property role="EcuMT" value="8356006588849174340" />
+    <property role="3GE5qa" value="source.criteria" />
+    <property role="TrG5h" value="ContraCriteriaRef" />
+    <property role="34LRSv" value="-&gt;contra" />
+    <node concept="1TJgyj" id="7fQvVxPbrta" role="1TKVEi">
+      <property role="IQ2ns" value="8356006588849174346" />
+      <property role="20kJfa" value="contra" />
+      <property role="20lbJX" value="fLJekj4/_1" />
+      <ref role="20lvS9" node="7fQvVxPb3bl" resolve="ContraCriteria" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7fQvVxPbrt6">
+    <property role="EcuMT" value="8356006588849174342" />
+    <property role="3GE5qa" value="source.criteria" />
+    <property role="TrG5h" value="DesignCriteriaRef" />
+    <property role="34LRSv" value="-&gt;design" />
+    <node concept="1TJgyj" id="7fQvVxPbrtc" role="1TKVEi">
+      <property role="IQ2ns" value="8356006588849174348" />
+      <property role="20kJfa" value="design" />
+      <property role="20lbJX" value="fLJekj4/_1" />
+      <ref role="20lvS9" node="7fQvVxPb3b3" resolve="DesignCriteria" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7fQvVxPbVbX">
+    <property role="EcuMT" value="8356006588849304317" />
+    <property role="3GE5qa" value="source.criteria.technology" />
+    <property role="TrG5h" value="TechnologySpec" />
+    <property role="34LRSv" value="technologySpec" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <node concept="PrWs8" id="7fQvVxPc6dh" role="PzmwI">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7fQvVxPcheX">
+    <property role="EcuMT" value="8356006588849394621" />
+    <property role="3GE5qa" value="source.criteria.technology" />
+    <property role="TrG5h" value="TechnologyDefinitions" />
+    <property role="19KtqR" value="true" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <node concept="1TJgyj" id="7fQvVxPcheY" role="1TKVEi">
+      <property role="IQ2ns" value="8356006588849394622" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="specs" />
+      <property role="20lbJX" value="fLJekj5/_0__n" />
+      <ref role="20lvS9" node="7fQvVxPbVbX" resolve="TechnologySpec" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7fQvVxPct17">
+    <property role="EcuMT" value="8356006588849442887" />
+    <property role="3GE5qa" value="source.criteria.technology" />
+    <property role="TrG5h" value="TechnologyRef" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <node concept="1TJgyj" id="7fQvVxPct18" role="1TKVEi">
+      <property role="IQ2ns" value="8356006588849442888" />
+      <property role="20kJfa" value="spec" />
+      <property role="20lbJX" value="fLJekj4/_1" />
+      <ref role="20lvS9" node="7fQvVxPbVbX" resolve="TechnologySpec" />
     </node>
   </node>
 </model>
