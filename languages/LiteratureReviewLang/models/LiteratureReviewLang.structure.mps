@@ -70,7 +70,7 @@
       <concept id="1133920641626" name="jetbrains.mps.lang.core.structure.BaseConcept" flags="ng" index="2VYdi">
         <property id="1193676396447" name="virtualPackage" index="3GE5qa" />
       </concept>
-      <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ng" index="TrEIO">
+      <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ngI" index="TrEIO">
         <property id="1169194664001" name="name" index="TrG5h" />
       </concept>
     </language>
@@ -80,7 +80,7 @@
     <property role="TrG5h" value="LiteratureReview" />
     <property role="19KtqR" value="true" />
     <property role="34LRSv" value="review" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="hCjQGZpcDq" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
@@ -112,7 +112,7 @@
     <property role="R5$K7" value="true" />
     <property role="3GE5qa" value="source" />
     <property role="19KtqR" value="true" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="7fQvVxPb3bo" role="1TKVEi">
       <property role="IQ2ns" value="8356006588849074904" />
       <property role="20kJfa" value="benefits" />
@@ -168,7 +168,7 @@
     <node concept="1TJgyi" id="hCjQGZpfbV" role="1TKVEl">
       <property role="IQ2nx" value="317591095773295355" />
       <property role="TrG5h" value="type" />
-      <ref role="AX2Wp" node="hCjQGZpf9M" resolve="PaperType" />
+      <ref role="AX2Wp" node="hCjQGZpf9M" resolve="ScholarType" />
     </node>
     <node concept="1TJgyi" id="hCjQGZpfgr" role="1TKVEl">
       <property role="IQ2nx" value="317591095773295643" />
@@ -199,7 +199,7 @@
     <property role="3F6X1D" value="317591095773295218" />
     <property role="TrG5h" value="ScholarType" />
     <property role="3GE5qa" value="source.paper" />
-    <ref role="1H5jkz" node="hCjQGZpfbr" resolve="Default" />
+    <ref role="1H5jkz" node="hCjQGZpfbr" resolve="Undefined" />
     <node concept="25R33" id="hCjQGZpf9N" role="25R1y">
       <property role="3tVfz5" value="317591095773295219" />
       <property role="TrG5h" value="Paper" />
@@ -318,7 +318,7 @@
     <property role="3GE5qa" value="source.criteria" />
     <property role="TrG5h" value="Criteria" />
     <property role="R5$K7" value="true" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="7fQvVxPb3AF" role="PzmwI">
       <ref role="PrY4T" node="7fQvVxPb3b9" resolve="IHaveNotes" />
     </node>
@@ -428,7 +428,7 @@
     <property role="3GE5qa" value="source.criteria.technology" />
     <property role="TrG5h" value="TechnologySpec" />
     <property role="34LRSv" value="technologySpec" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="7fQvVxPc6dh" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
@@ -438,7 +438,7 @@
     <property role="3GE5qa" value="source.criteria.technology" />
     <property role="TrG5h" value="TechnologyDefinitions" />
     <property role="19KtqR" value="true" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="7fQvVxPcheY" role="1TKVEi">
       <property role="IQ2ns" value="8356006588849394622" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
@@ -451,7 +451,7 @@
     <property role="EcuMT" value="8356006588849442887" />
     <property role="3GE5qa" value="source.criteria.technology" />
     <property role="TrG5h" value="TechnologyRef" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="7fQvVxPct18" role="1TKVEi">
       <property role="IQ2ns" value="8356006588849442888" />
       <property role="20kJfa" value="spec" />
