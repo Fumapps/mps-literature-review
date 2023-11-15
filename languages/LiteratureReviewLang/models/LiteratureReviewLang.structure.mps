@@ -283,6 +283,10 @@
       <property role="3tVfz5" value="8356006588849097053" />
       <property role="TrG5h" value="Tutorial" />
     </node>
+    <node concept="25R33" id="33OMaNyRXhQ" role="25R1y">
+      <property role="3tVfz5" value="3527665053004190838" />
+      <property role="TrG5h" value="Article" />
+    </node>
     <node concept="25R33" id="3N9eFDIQ$FH" role="25R1y">
       <property role="3tVfz5" value="4380096684992645869" />
       <property role="TrG5h" value="Undefined" />
@@ -391,7 +395,6 @@
     <property role="EcuMT" value="8356006588849174338" />
     <property role="3GE5qa" value="source.criteria" />
     <property role="TrG5h" value="BenefitCriteriaRef" />
-    <property role="34LRSv" value="-&gt;benefit" />
     <node concept="1TJgyj" id="7fQvVxPbrt8" role="1TKVEi">
       <property role="IQ2ns" value="8356006588849174344" />
       <property role="20kJfa" value="benefit" />
@@ -403,7 +406,6 @@
     <property role="EcuMT" value="8356006588849174340" />
     <property role="3GE5qa" value="source.criteria" />
     <property role="TrG5h" value="ContraCriteriaRef" />
-    <property role="34LRSv" value="-&gt;contra" />
     <node concept="1TJgyj" id="7fQvVxPbrta" role="1TKVEi">
       <property role="IQ2ns" value="8356006588849174346" />
       <property role="20kJfa" value="contra" />
@@ -415,7 +417,6 @@
     <property role="EcuMT" value="8356006588849174342" />
     <property role="3GE5qa" value="source.criteria" />
     <property role="TrG5h" value="DesignCriteriaRef" />
-    <property role="34LRSv" value="-&gt;design" />
     <node concept="1TJgyj" id="7fQvVxPbrtc" role="1TKVEi">
       <property role="IQ2ns" value="8356006588849174348" />
       <property role="20kJfa" value="design" />
