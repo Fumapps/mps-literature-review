@@ -34,6 +34,10 @@
       <concept id="1207145163717" name="jetbrains.mps.lang.plugin.structure.ElementListContents" flags="ng" index="ftmFs">
         <child id="1207145201301" name="reference" index="ftvYc" />
       </concept>
+      <concept id="1207318242772" name="jetbrains.mps.lang.plugin.structure.KeyMapKeystroke" flags="ng" index="pLAjd">
+        <property id="1207318242773" name="modifiers" index="pLAjc" />
+        <property id="1207318242774" name="keycode" index="pLAjf" />
+      </concept>
       <concept id="1203071646776" name="jetbrains.mps.lang.plugin.structure.ActionDeclaration" flags="ng" index="sE7Ow">
         <property id="1205250923097" name="caption" index="2uzpH1" />
         <property id="4692598989365753297" name="updateInBackground" index="1rBW0U" />
@@ -54,6 +58,15 @@
         <reference id="1203092736097" name="modifiedGroup" index="tU$_T" />
       </concept>
       <concept id="1205681243813" name="jetbrains.mps.lang.plugin.structure.IsApplicableBlock" flags="in" index="2ScWuX" />
+      <concept id="1562714432501166198" name="jetbrains.mps.lang.plugin.structure.SimpleShortcutChange" flags="lg" index="Zd509">
+        <child id="1562714432501166206" name="keystroke" index="Zd501" />
+      </concept>
+      <concept id="1562714432501166197" name="jetbrains.mps.lang.plugin.structure.KeymapChangesDeclaration" flags="ng" index="Zd50a">
+        <child id="1562714432501166199" name="shortcutChange" index="Zd508" />
+      </concept>
+      <concept id="6193305307616715384" name="jetbrains.mps.lang.plugin.structure.ShortcutChange" flags="ngI" index="1bYyw_">
+        <reference id="6193305307616734326" name="action" index="1bYAoF" />
+      </concept>
       <concept id="5678361901872075170" name="jetbrains.mps.lang.plugin.structure.EditableModel" flags="ng" index="3dZWAM" />
       <concept id="5538333046911348654" name="jetbrains.mps.lang.plugin.structure.RequiredCondition" flags="ng" index="1oajcY" />
       <concept id="1217252042208" name="jetbrains.mps.lang.plugin.structure.ActionDataParameterDeclaration" flags="ng" index="1DS2jV">
@@ -910,7 +923,7 @@
     </node>
   </node>
   <node concept="tC5Ba" id="3vZZtDHuRfl">
-    <property role="TrG5h" value="LiteraturReviewActionGroup" />
+    <property role="TrG5h" value="LiteratureReviewActionGroup" />
     <node concept="ftmFs" id="3vZZtDHuRfn" role="ftER_">
       <node concept="tCFHf" id="3vZZtDHuRfq" role="ftvYc">
         <ref role="tCJdB" node="3vZZtDHu3g0" resolve="PasteAsWebsiteSource" />
@@ -922,5 +935,15 @@
     </node>
   </node>
   <node concept="2DaZZR" id="3vZZtDHuWNK" />
+  <node concept="Zd50a" id="3vZZtDHyrwi">
+    <property role="TrG5h" value="LiteratureReviewKeyMap" />
+    <node concept="Zd509" id="3vZZtDHyrwl" role="Zd508">
+      <ref role="1bYAoF" node="3vZZtDHu3g0" resolve="PasteAsWebsiteSource" />
+      <node concept="pLAjd" id="3vZZtDHyrwn" role="Zd501">
+        <property role="pLAjc" value="ctrl+shift" />
+        <property role="pLAjf" value="V" />
+      </node>
+    </node>
+  </node>
 </model>
 
