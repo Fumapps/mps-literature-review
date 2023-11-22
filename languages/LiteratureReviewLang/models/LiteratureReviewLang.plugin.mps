@@ -26,6 +26,7 @@
     <import index="ihap" ref="498d89d2-c2e9-11e2-ad49-6cf049e62fe5/java:org.jetbrains.jetCheck(MPS.IDEA/)" />
     <import index="mhbf" ref="8865b7a8-5271-43d3-884c-6fd1d9cfdd34/java:org.jetbrains.mps.openapi.model(MPS.OpenAPI/)" />
     <import index="w1kc" ref="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea/java:jetbrains.mps.smodel(MPS.Core/)" />
+    <import index="dush" ref="8865b7a8-5271-43d3-884c-6fd1d9cfdd34/java:org.jetbrains.mps.openapi.persistence(MPS.OpenAPI/)" />
     <import index="mk90" ref="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea/java:jetbrains.mps.progress(MPS.Core/)" implicit="true" />
     <import index="1ctc" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.util.stream(JDK/)" implicit="true" />
     <import index="vdrq" ref="r:85354f47-14fd-40e6-a7cc-2d1aa842c4cd(jetbrains.mps.lang.text.behavior)" implicit="true" />
@@ -586,11 +587,16 @@
                                       </node>
                                       <node concept="liA8E" id="2junG74tue3" role="2OqNvi">
                                         <ref role="37wK5l" to="mhbf:~SModel.getNode(org.jetbrains.mps.openapi.model.SNodeId)" resolve="getNode" />
-                                        <node concept="2YIFZM" id="2junG74tue4" role="37wK5m">
-                                          <ref role="37wK5l" to="w1kc:~SNodeId.fromString(java.lang.String)" resolve="fromString" />
-                                          <ref role="1Pybhc" to="w1kc:~SNodeId" resolve="SNodeId" />
-                                          <node concept="Xl_RD" id="2junG74tue5" role="37wK5m">
-                                            <property role="Xl_RC" value="2656665016512699986" />
+                                        <node concept="2OqwBi" id="2junG74vgjY" role="37wK5m">
+                                          <node concept="2YIFZM" id="2junG74vgjZ" role="2Oq$k0">
+                                            <ref role="37wK5l" to="dush:~PersistenceFacade.getInstance()" resolve="getInstance" />
+                                            <ref role="1Pybhc" to="dush:~PersistenceFacade" resolve="PersistenceFacade" />
+                                          </node>
+                                          <node concept="liA8E" id="2junG74vgk0" role="2OqNvi">
+                                            <ref role="37wK5l" to="dush:~PersistenceFacade.createNodeId(java.lang.String)" resolve="createNodeId" />
+                                            <node concept="Xl_RD" id="2junG74vgk1" role="37wK5m">
+                                              <property role="Xl_RC" value="2656665016512699986" />
+                                            </node>
                                           </node>
                                         </node>
                                       </node>
@@ -685,11 +691,16 @@
                                       </node>
                                       <node concept="liA8E" id="2junG74u6Br" role="2OqNvi">
                                         <ref role="37wK5l" to="mhbf:~SModel.getNode(org.jetbrains.mps.openapi.model.SNodeId)" resolve="getNode" />
-                                        <node concept="2YIFZM" id="2junG74u6Bs" role="37wK5m">
-                                          <ref role="37wK5l" to="w1kc:~SNodeId.fromString(java.lang.String)" resolve="fromString" />
-                                          <ref role="1Pybhc" to="w1kc:~SNodeId" resolve="SNodeId" />
-                                          <node concept="Xl_RD" id="2junG74u6Bt" role="37wK5m">
-                                            <property role="Xl_RC" value="3527665053004221174" />
+                                        <node concept="2OqwBi" id="2junG74vSbb" role="37wK5m">
+                                          <node concept="2YIFZM" id="2junG74vSbc" role="2Oq$k0">
+                                            <ref role="37wK5l" to="dush:~PersistenceFacade.getInstance()" resolve="getInstance" />
+                                            <ref role="1Pybhc" to="dush:~PersistenceFacade" resolve="PersistenceFacade" />
+                                          </node>
+                                          <node concept="liA8E" id="2junG74vSbd" role="2OqNvi">
+                                            <ref role="37wK5l" to="dush:~PersistenceFacade.createNodeId(java.lang.String)" resolve="createNodeId" />
+                                            <node concept="Xl_RD" id="2junG74vSbe" role="37wK5m">
+                                              <property role="Xl_RC" value="3527665053004221174" />
+                                            </node>
                                           </node>
                                         </node>
                                       </node>
@@ -754,11 +765,16 @@
                                       </node>
                                       <node concept="liA8E" id="2junG74ujZB" role="2OqNvi">
                                         <ref role="37wK5l" to="mhbf:~SModel.getNode(org.jetbrains.mps.openapi.model.SNodeId)" resolve="getNode" />
-                                        <node concept="2YIFZM" id="2junG74ujZC" role="37wK5m">
-                                          <ref role="37wK5l" to="w1kc:~SNodeId.fromString(java.lang.String)" resolve="fromString" />
-                                          <ref role="1Pybhc" to="w1kc:~SNodeId" resolve="SNodeId" />
-                                          <node concept="Xl_RD" id="2junG74ujZD" role="37wK5m">
-                                            <property role="Xl_RC" value="3527665053004676719" />
+                                        <node concept="2OqwBi" id="2junG74vYys" role="37wK5m">
+                                          <node concept="2YIFZM" id="2junG74vYyt" role="2Oq$k0">
+                                            <ref role="37wK5l" to="dush:~PersistenceFacade.getInstance()" resolve="getInstance" />
+                                            <ref role="1Pybhc" to="dush:~PersistenceFacade" resolve="PersistenceFacade" />
+                                          </node>
+                                          <node concept="liA8E" id="2junG74vYyu" role="2OqNvi">
+                                            <ref role="37wK5l" to="dush:~PersistenceFacade.createNodeId(java.lang.String)" resolve="createNodeId" />
+                                            <node concept="Xl_RD" id="2junG74vYyv" role="37wK5m">
+                                              <property role="Xl_RC" value="3527665053004676719" />
+                                            </node>
                                           </node>
                                         </node>
                                       </node>
@@ -808,11 +824,16 @@
                                       </node>
                                       <node concept="liA8E" id="2junG74urvd" role="2OqNvi">
                                         <ref role="37wK5l" to="mhbf:~SModel.getNode(org.jetbrains.mps.openapi.model.SNodeId)" resolve="getNode" />
-                                        <node concept="2YIFZM" id="2junG74urve" role="37wK5m">
-                                          <ref role="37wK5l" to="w1kc:~SNodeId.fromString(java.lang.String)" resolve="fromString" />
-                                          <ref role="1Pybhc" to="w1kc:~SNodeId" resolve="SNodeId" />
-                                          <node concept="Xl_RD" id="2junG74urvf" role="37wK5m">
-                                            <property role="Xl_RC" value="3527665053004676720" />
+                                        <node concept="2OqwBi" id="2junG74vWxq" role="37wK5m">
+                                          <node concept="2YIFZM" id="2junG74vWxr" role="2Oq$k0">
+                                            <ref role="37wK5l" to="dush:~PersistenceFacade.getInstance()" resolve="getInstance" />
+                                            <ref role="1Pybhc" to="dush:~PersistenceFacade" resolve="PersistenceFacade" />
+                                          </node>
+                                          <node concept="liA8E" id="2junG74vWxs" role="2OqNvi">
+                                            <ref role="37wK5l" to="dush:~PersistenceFacade.createNodeId(java.lang.String)" resolve="createNodeId" />
+                                            <node concept="Xl_RD" id="2junG74vWxt" role="37wK5m">
+                                              <property role="Xl_RC" value="3527665053004676720" />
+                                            </node>
                                           </node>
                                         </node>
                                       </node>
