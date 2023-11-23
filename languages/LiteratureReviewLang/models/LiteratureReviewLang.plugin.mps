@@ -1197,6 +1197,29 @@
                                 <ref role="37wK5l" to="lui2:~ModelAccess.runReadInEDT(java.lang.Runnable)" resolve="runReadInEDT" />
                                 <node concept="1bVj0M" id="FCwcrLwSiK" role="37wK5m">
                                   <node concept="3clFbS" id="FCwcrLwSiN" role="1bW5cS">
+                                    <node concept="3clFbF" id="FCwcrL$qiW" role="3cqZAp">
+                                      <node concept="2OqwBi" id="FCwcrL$rf3" role="3clFbG">
+                                        <node concept="2YIFZM" id="FCwcrL$qiY" role="2Oq$k0">
+                                          <ref role="37wK5l" to="kz9k:~NavigationSupport.getInstance()" resolve="getInstance" />
+                                          <ref role="1Pybhc" to="kz9k:~NavigationSupport" resolve="NavigationSupport" />
+                                        </node>
+                                        <node concept="liA8E" id="FCwcrL$t60" role="2OqNvi">
+                                          <ref role="37wK5l" to="kz9k:~NavigationSupport.selectInTree(jetbrains.mps.project.Project,org.jetbrains.mps.openapi.model.SNode,boolean)" resolve="selectInTree" />
+                                          <node concept="2OqwBi" id="FCwcrL$tMK" role="37wK5m">
+                                            <node concept="2WthIp" id="FCwcrL$tML" role="2Oq$k0" />
+                                            <node concept="1DTwFV" id="FCwcrL$tMM" role="2OqNvi">
+                                              <ref role="2WH_rO" node="MCyGswqxdU" resolve="mpsProject" />
+                                            </node>
+                                          </node>
+                                          <node concept="37vLTw" id="FCwcrL$tMN" role="37wK5m">
+                                            <ref role="3cqZAo" node="3vZZtDHvIur" resolve="node" />
+                                          </node>
+                                          <node concept="3clFbT" id="FCwcrL$tMO" role="37wK5m">
+                                            <property role="3clFbU" value="true" />
+                                          </node>
+                                        </node>
+                                      </node>
+                                    </node>
                                     <node concept="3clFbF" id="FCwcrLzIgs" role="3cqZAp">
                                       <node concept="2OqwBi" id="FCwcrLzLQx" role="3clFbG">
                                         <node concept="2YIFZM" id="FCwcrLzL3G" role="2Oq$k0">
