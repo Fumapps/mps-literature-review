@@ -37,6 +37,9 @@
       <concept id="1082978164218" name="jetbrains.mps.lang.structure.structure.DataTypeDeclaration" flags="ng" index="AxPO6">
         <property id="7791109065626895363" name="datatypeId" index="3F6X1D" />
       </concept>
+      <concept id="1082978499127" name="jetbrains.mps.lang.structure.structure.ConstrainedDataTypeDeclaration" flags="ng" index="Az7Fb">
+        <property id="1083066089218" name="constraint" index="FLfZY" />
+      </concept>
       <concept id="1169125787135" name="jetbrains.mps.lang.structure.structure.AbstractConceptDeclaration" flags="ig" index="PkWjJ">
         <property id="6714410169261853888" name="conceptId" index="EcuMT" />
         <property id="4628067390765956802" name="abstract" index="R5$K7" />
@@ -156,6 +159,16 @@
       <property role="IQ2nx" value="8356006588849130622" />
       <property role="TrG5h" value="standardDefinition" />
       <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
+    </node>
+    <node concept="1TJgyi" id="35OUHiw4bob" role="1TKVEl">
+      <property role="IQ2nx" value="3563731404096321035" />
+      <property role="TrG5h" value="publicationDate" />
+      <ref role="AX2Wp" node="35OUHiw4bog" resolve="MonthAndYear" />
+    </node>
+    <node concept="1TJgyi" id="35OUHiw57kq" role="1TKVEl">
+      <property role="IQ2nx" value="3563731404096566554" />
+      <property role="TrG5h" value="publicationDateSource" />
+      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
     </node>
   </node>
   <node concept="1TIwiD" id="hCjQGZpf4A">
@@ -467,6 +480,12 @@
       <property role="20lbJX" value="fLJekj4/_1" />
       <ref role="20lvS9" node="7fQvVxPbVbX" resolve="TechnologySpec" />
     </node>
+  </node>
+  <node concept="Az7Fb" id="35OUHiw4bog">
+    <property role="3F6X1D" value="3563731404096321040" />
+    <property role="3GE5qa" value="source.website" />
+    <property role="TrG5h" value="MonthAndYear" />
+    <property role="FLfZY" value="\\d\\d\\d\\d-\\d\\d" />
   </node>
 </model>
 

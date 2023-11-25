@@ -192,6 +192,21 @@
         <ref role="1NtTu8" to="fg5c:7fQvVxPbVc7" resolve="technologySpecifics" />
         <node concept="l2Vlx" id="7fQvVxPbVcF" role="2czzBx" />
       </node>
+      <node concept="3F0ifn" id="35OUHiw4nqc" role="3EZMnx">
+        <property role="3F0ifm" value="publication date:" />
+        <node concept="pVoyu" id="35OUHiw4nqO" role="3F10Kt">
+          <property role="VOm3f" value="true" />
+        </node>
+      </node>
+      <node concept="3F0A7n" id="35OUHiw4nqA" role="3EZMnx">
+        <ref role="1NtTu8" to="fg5c:35OUHiw4bob" resolve="publicationDate" />
+      </node>
+      <node concept="3F0ifn" id="35OUHiw57kI" role="3EZMnx">
+        <property role="3F0ifm" value="by" />
+      </node>
+      <node concept="3F0A7n" id="35OUHiw57le" role="3EZMnx">
+        <ref role="1NtTu8" to="fg5c:35OUHiw57kq" resolve="publicationDateSource" />
+      </node>
       <node concept="l2Vlx" id="hCjQGZp$Lj" role="2iSdaV" />
     </node>
   </node>
