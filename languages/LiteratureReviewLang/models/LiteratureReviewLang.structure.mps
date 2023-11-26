@@ -286,7 +286,7 @@
     <property role="TrG5h" value="WebsiteType" />
     <node concept="25R33" id="3N9eFDIQ$FD" role="25R1y">
       <property role="3tVfz5" value="4380096684992645865" />
-      <property role="TrG5h" value="PersonalBlog" />
+      <property role="TrG5h" value="PersonalBlogArticle" />
     </node>
     <node concept="25R33" id="3N9eFDIQ$FE" role="25R1y">
       <property role="3tVfz5" value="4380096684992645866" />

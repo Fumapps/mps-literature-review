@@ -202,7 +202,7 @@
         <ref role="1NtTu8" to="fg5c:35OUHiw4bob" resolve="publicationDate" />
       </node>
       <node concept="3F0ifn" id="35OUHiw57kI" role="3EZMnx">
-        <property role="3F0ifm" value="by" />
+        <property role="3F0ifm" value="determined by" />
       </node>
       <node concept="3F0A7n" id="35OUHiw57le" role="3EZMnx">
         <ref role="1NtTu8" to="fg5c:35OUHiw57kq" resolve="publicationDateSource" />
