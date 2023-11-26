@@ -39,6 +39,9 @@
       <concept id="8356006588849304317" name="LiteratureReviewLang.structure.TechnologySpec" flags="ng" index="6QsP5" />
       <concept id="8356006588849074898" name="LiteratureReviewLang.structure.BenefitCriteria" flags="ng" index="6Q$PE" />
       <concept id="8356006588849074901" name="LiteratureReviewLang.structure.ContraCriteria" flags="ng" index="6Q$PH" />
+      <concept id="8356006588849074889" name="LiteratureReviewLang.structure.IHaveNotes" flags="ngI" index="6Q$PL">
+        <child id="8356006588849074890" name="notes" index="6Q$PM" />
+      </concept>
       <concept id="8356006588849074883" name="LiteratureReviewLang.structure.DesignCriteria" flags="ng" index="6Q$PV" />
       <concept id="8356006588849174338" name="LiteratureReviewLang.structure.BenefitCriteriaRef" flags="ng" index="6QWzU">
         <reference id="8356006588849174344" name="benefit" index="6QWzK" />
@@ -1332,6 +1335,8 @@
     <property role="1i4R1u" value="7fQvVxPb8_t/Tutorial" />
     <property role="V3bUu" value="Guru99MvcVsMvvm" />
     <property role="6QRf6" value="true" />
+    <property role="2ho9Ze" value="web.archive.org" />
+    <property role="2hp5Nv" value="2020-05" />
     <node concept="1Pa9Pv" id="7fQvVxPbTZK" role="6QGoB">
       <node concept="1PaTwC" id="7fQvVxPbTZL" role="1PaQFQ">
         <node concept="3oM_SD" id="7fQvVxPbTZP" role="1PaTwD">
@@ -6238,6 +6243,8 @@
     <property role="1i4R1u" value="5yXA7NP88yw/Documentation" />
     <property role="6QRf6" value="true" />
     <property role="V3bUu" value="VueJsDocu" />
+    <property role="2hp5Nv" value="2015-10" />
+    <property role="2ho9Ze" value="web.archive.org" />
     <node concept="1Pa9Pv" id="5yXA7NP816y" role="6QGoB">
       <node concept="1PaTwC" id="5yXA7NP816z" role="1PaQFQ">
         <node concept="3oM_SD" id="5yXA7NP816$" role="1PaTwD">
@@ -6876,10 +6883,12 @@
   </node>
   <node concept="1i4R1p" id="5yXA7NP8bqi">
     <property role="1i4R1v" value="https://www.reddit.com/r/csELI5/comments/1r0amd/eli5_how_it_works_and_why_of_modelviewviewmodel/" />
-    <property role="TrG5h" value="reddit.com - ELI5: How it works and why of Model-View-ViewModel pattern" />
+    <property role="TrG5h" value="Reddit - ELI5: How it works and why of Model-View-ViewModel pattern" />
     <property role="1i4R1u" value="3N9eFDIQ$FE/Forum" />
     <property role="6QRf6" value="true" />
     <property role="V3bUu" value="RedditDiscussionEli5Mvvm" />
+    <property role="2hp5Nv" value="2013-11" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="1Pa9Pv" id="5yXA7NP8bqj" role="6QGoB">
       <node concept="1PaTwC" id="5yXA7NP8bqk" role="1PaQFQ">
         <node concept="3oM_SD" id="5yXA7NP8bql" role="1PaTwD">
@@ -7778,6 +7787,8 @@
     <property role="1i4R1u" value="7fQvVxPb8_t/Tutorial" />
     <property role="V3bUu" value="Toptal" />
     <property role="6QRf6" value="true" />
+    <property role="2hp5Nv" value="2018-12" />
+    <property role="2ho9Ze" value="Website Metadata HTML datePublished property" />
     <node concept="1Pa9Pv" id="5yXA7NP8cMp" role="6QGoB">
       <node concept="1PaTwC" id="5yXA7NP8cMq" role="1PaQFQ">
         <node concept="3oM_SD" id="5yXA7NP8cMr" role="1PaTwD">
@@ -8592,6 +8603,8 @@
     <property role="TrG5h" value="SitePoint Forums - What is a view model?" />
     <property role="1i4R1u" value="3N9eFDIQ$FE/Forum" />
     <property role="V3bUu" value="SitePointWhatIsMvvm" />
+    <property role="2ho9Ze" value="Website" />
+    <property role="2hp5Nv" value="2013-07" />
     <node concept="1Pa9Pv" id="5yXA7NP8gTL" role="6QGoB">
       <node concept="1PaTwC" id="5yXA7NP8gTM" role="1PaQFQ">
         <node concept="3oM_SD" id="5yXA7NP8gTN" role="1PaTwD">
@@ -9870,6 +9883,8 @@
     <property role="V3bUu" value="MobioMvvm" />
     <property role="6QRf6" value="true" />
     <property role="1i4R1u" value="33OMaNyRXhQ/Article" />
+    <property role="2hp5Nv" value="2019-02" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="1Pa9Pv" id="5yXA7NP8j_Y" role="6QGoB">
       <node concept="1PaTwC" id="5yXA7NP8j_Z" role="1PaQFQ">
         <node concept="3oM_SD" id="5yXA7NP8jA0" role="1PaTwD">
@@ -12229,6 +12244,8 @@
     <property role="1i4R1u" value="3N9eFDIQ$FD/PersonalBlog" />
     <property role="6QRf6" value="true" />
     <property role="V3bUu" value="MediumLevelUpReactMvvm" />
+    <property role="2hp5Nv" value="2018-08" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="1Pa9Pv" id="2junG74rrEV" role="6QGoB">
       <node concept="1PaTwC" id="2junG74rrEW" role="1PaQFQ">
         <node concept="3oM_SD" id="2junG74rrEX" role="1PaTwD">
@@ -13432,6 +13449,8 @@
     <property role="1i4R1u" value="3N9eFDIQ$FD/PersonalBlog" />
     <property role="V3bUu" value="ManferdiniMvvmSwift" />
     <property role="6QRf6" value="true" />
+    <property role="2hp5Nv" value="2020-11" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="1Pa9Pv" id="2junG74ruHL" role="6QGoB">
       <node concept="1PaTwC" id="2junG74ruHM" role="1PaQFQ">
         <node concept="3oM_SD" id="2junG74ruHN" role="1PaTwD">
@@ -14495,6 +14514,8 @@
     <property role="TrG5h" value="Software Engineering Stack Exchange - Layered Model-View-ViewModel design" />
     <property role="1i4R1u" value="3N9eFDIQ$FE/Forum" />
     <property role="V3bUu" value="SweStackExchangeLayeredMvvm" />
+    <property role="2hp5Nv" value="2019-12" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="1Pa9Pv" id="2junG74ry4z" role="6QGoB">
       <node concept="1PaTwC" id="2junG74ry4$" role="1PaQFQ">
         <node concept="3oM_SD" id="2junG74ry4_" role="1PaTwD">
@@ -16953,6 +16974,8 @@
     <property role="TrG5h" value="TechYourChance - You Don't Need Android ViewModel, Here is Why" />
     <property role="V3bUu" value="TechYourChanceDontAndroidViewModel" />
     <property role="1i4R1u" value="3N9eFDIQ$FD/PersonalBlog" />
+    <property role="2hp5Nv" value="2022-06" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="6QWzU" id="2junG74v3ck" role="6Q$Pw">
       <ref role="6QWzK" node="33OMaNyTNTJ" resolve="TODO" />
     </node>
@@ -19048,6 +19071,8 @@
     <property role="TrG5h" value="Sencha Docs - Ext.app.ViewModel " />
     <property role="1i4R1u" value="5yXA7NP88yw/Documentation" />
     <property role="V3bUu" value="SenchaDocsExtViewModel" />
+    <property role="2hp5Nv" value="2016-09" />
+    <property role="2ho9Ze" value="web.archive.org on https://docs.sencha.com/extjs/6.0.0/modern/Ext.app.ViewModel.html" />
     <node concept="6LUZZ" id="2junG74v_Ly" role="6QsMZ">
       <ref role="6LUZK" node="2junG74vB9$" resolve="ExtJS" />
     </node>
@@ -22986,6 +23011,8 @@
     <property role="TrG5h" value="The Kotzilla Blog - Easier, Better, Stronger with ViewModels" />
     <property role="V3bUu" value="KotzillaBlog" />
     <property role="1i4R1u" value="33OMaNyRXhQ/Article" />
+    <property role="2hp5Nv" value="2022-11" />
+    <property role="2ho9Ze" value="Website on web.archive.org" />
     <node concept="6LUZZ" id="12EuLj_$5bx" role="6QsMZ">
       <ref role="6LUZK" node="5yXA7NP8cLX" resolve="Android" />
     </node>
@@ -23851,12 +23878,33 @@
         </node>
       </node>
     </node>
+    <node concept="1Pa9Pv" id="12EuLj__FYk" role="6Q$PM">
+      <node concept="1PaTwC" id="12EuLj__FYl" role="1PaQFQ">
+        <node concept="3oM_SD" id="12EuLj__FYo" role="1PaTwD">
+          <property role="3oM_SC" value="Found" />
+        </node>
+        <node concept="3oM_SD" id="12EuLj__FYq" role="1PaTwD">
+          <property role="3oM_SC" value="only" />
+        </node>
+        <node concept="3oM_SD" id="12EuLj__FYt" role="1PaTwD">
+          <property role="3oM_SC" value="by" />
+        </node>
+        <node concept="3oM_SD" id="12EuLj__FYx" role="1PaTwD">
+          <property role="3oM_SC" value="waybackmachine:" />
+        </node>
+        <node concept="3oM_SD" id="12EuLj__FYG" role="1PaTwD">
+          <property role="3oM_SC" value="https://web.archive.org/web/20230327170153/https://blog.kotzilla.io/koin-android-stronger-viewmodel-api/" />
+        </node>
+      </node>
+    </node>
   </node>
   <node concept="1i4R1p" id="FCwcrL_5fl">
     <property role="1i4R1v" value="https://voyager.adriel.cafe/android-viewmodel" />
     <property role="TrG5h" value="voyager.adriel.cafe - Android ViewModel" />
     <property role="1i4R1u" value="7fQvVxPb8_t/Tutorial" />
     <property role="V3bUu" value="VoyagerAndroidViewModel" />
+    <property role="2hp5Nv" value="2021-12" />
+    <property role="2ho9Ze" value="web.archive.org" />
     <node concept="6LUZZ" id="FCwcrL_5fm" role="6QsMZ">
       <ref role="6LUZK" node="5yXA7NP8cLX" resolve="Android" />
     </node>
@@ -24616,6 +24664,8 @@
     <property role="TrG5h" value="valueof.io - StateFlow and SharedFlow in ViewModels" />
     <property role="1i4R1u" value="33OMaNyRXhQ/Article" />
     <property role="V3bUu" value="ValueOfStateSharedFlowViewModels" />
+    <property role="2hp5Nv" value="2022-12" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="6LUZZ" id="S91WZfSVE1" role="6QsMZ">
       <ref role="6LUZK" node="5yXA7NP8cLX" resolve="Android" />
     </node>
@@ -26188,6 +26238,8 @@
     <property role="TrG5h" value="Tutlane - ViewModel in Asp.Net MVC" />
     <property role="1i4R1u" value="7fQvVxPb8_t/Tutorial" />
     <property role="V3bUu" value="TutlaneViewModelAspNetMvc" />
+    <property role="2hp5Nv" value="2016-01" />
+    <property role="2ho9Ze" value="web.archive.org" />
     <node concept="6LUZZ" id="S91WZfSY5o" role="6QsMZ">
       <ref role="6LUZK" node="S91WZfSYPI" resolve="ASP.NET MVC" />
     </node>
@@ -27756,6 +27808,8 @@
     <property role="TrG5h" value="Reddit - You Don't Need Android ViewModel, Here is Why" />
     <property role="1i4R1u" value="3N9eFDIQ$FE/Forum" />
     <property role="V3bUu" value="RedditYouDontNeedAndroidViewModel" />
+    <property role="2ho9Ze" value="Website" />
+    <property role="2hp5Nv" value="2022-06" />
     <node concept="6LUZZ" id="S91WZfT3i$" role="6QsMZ">
       <ref role="6LUZK" node="5yXA7NP8cLX" resolve="Android" />
     </node>
@@ -28462,6 +28516,25 @@
         </node>
       </node>
     </node>
+    <node concept="1Pa9Pv" id="12EuLj__FYX" role="6Q$PM">
+      <node concept="1PaTwC" id="12EuLj__FYY" role="1PaQFQ">
+        <node concept="3oM_SD" id="12EuLj__FZ1" role="1PaTwD">
+          <property role="3oM_SC" value="Seems" />
+        </node>
+        <node concept="3oM_SD" id="12EuLj__FZ3" role="1PaTwD">
+          <property role="3oM_SC" value="a" />
+        </node>
+        <node concept="3oM_SD" id="12EuLj__FZ6" role="1PaTwD">
+          <property role="3oM_SC" value="duplicate" />
+        </node>
+        <node concept="3oM_SD" id="12EuLj__FZa" role="1PaTwD">
+          <property role="3oM_SC" value="of" />
+        </node>
+        <node concept="3oM_SD" id="12EuLj__FZl" role="1PaTwD">
+          <property role="3oM_SC" value="TechYourChanceDontAndroidViewModel" />
+        </node>
+      </node>
+    </node>
   </node>
   <node concept="1i4R1p" id="S91WZfT45_">
     <property role="1i4R1v" value="https://www.kodeco.com/books/advanced-android-app-architecture/v1.0/chapters/10-model-view-viewmodel-theory" />
@@ -29130,7 +29203,9 @@
     <property role="1i4R1v" value="https://softwareengineering.stackexchange.com/questions/293224/is-that-good-idea-to-add-viewmodel-exactly-same-as-model" />
     <property role="TrG5h" value="Software Engineering Stack Exchange - Is that good idea to add ViewModel exactly same as Model" />
     <property role="1i4R1u" value="3N9eFDIQ$FE/Forum" />
-    <property role="V3bUu" value="SoftwareEngStackExchangeViewModelExactlyModel" />
+    <property role="V3bUu" value="SweStackExchangeViewModelExactlyModel" />
+    <property role="2hp5Nv" value="2015-08" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="6LUZZ" id="S91WZfTcOu" role="6QsMZ">
       <ref role="6LUZK" node="S91WZfSYPI" resolve="ASP.NET MVC" />
     </node>
@@ -29692,6 +29767,8 @@
     <property role="TrG5h" value="Techotopia - An Android Jetpack ViewModel Tutorial" />
     <property role="1i4R1u" value="7fQvVxPb8_t/Tutorial" />
     <property role="V3bUu" value="TechotopiaAndroidJetpackViewModel" />
+    <property role="2hp5Nv" value="2018-05" />
+    <property role="2ho9Ze" value="Website Page History (https://www.techotopia.com/index.php/Special:History/An_Android_Jetpack_ViewModel_Tutorial)" />
     <node concept="6LUZZ" id="S91WZfTelb" role="6QsMZ">
       <ref role="6LUZK" node="5yXA7NP8cLX" resolve="Android" />
     </node>
@@ -31051,6 +31128,8 @@
     <property role="TrG5h" value="Systango - What is ViewModel in Android Architecture Component?" />
     <property role="1i4R1u" value="33OMaNyRXhQ/Article" />
     <property role="V3bUu" value="SystangoViewModelAndroid" />
+    <property role="2hp5Nv" value="2022-02" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="6LUZZ" id="S91WZfTgk6" role="6QsMZ">
       <ref role="6LUZK" node="5yXA7NP8cLX" resolve="Android" />
     </node>
@@ -32549,6 +32628,8 @@
     <property role="TrG5h" value="Milestone Servienti - ViewModel Composition" />
     <property role="1i4R1u" value="3N9eFDIQ$FD/PersonalBlog" />
     <property role="V3bUu" value="MilestoneViewModelComposition" />
+    <property role="2hp5Nv" value="2022-07" />
+    <property role="2ho9Ze" value="web.archive.org" />
     <node concept="6QWzY" id="S91WZfTqt7" role="6Q$P_">
       <ref role="6QWzO" node="33OMaNyS4FQ" resolve="TODO" />
     </node>
@@ -34957,6 +35038,8 @@
     <property role="TrG5h" value="Styling Android - Architecture Components: ViewModel" />
     <property role="V3bUu" value="StylingAndroidViewModel" />
     <property role="1i4R1u" value="3N9eFDIQ$FD/PersonalBlog" />
+    <property role="2hp5Nv" value="2017-07" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="6QWzY" id="S91WZfTtpb" role="6Q$P_">
       <ref role="6QWzO" node="33OMaNyS4FQ" resolve="TODO" />
     </node>
@@ -36478,6 +36561,8 @@
     <property role="TrG5h" value="Nick's .NET Travels - ViewModel to ViewModel Navigation in a Xamarin.Forms Application with Prism and MvvmCross" />
     <property role="V3bUu" value="NicksDotNetTravelsViewModelNavigationXamarin" />
     <property role="1i4R1u" value="3N9eFDIQ$FD/PersonalBlog" />
+    <property role="2hp5Nv" value="2019-03" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="6QWzY" id="S91WZfTvBH" role="6Q$P_">
       <ref role="6QWzO" node="33OMaNyS4FQ" resolve="TODO" />
     </node>
@@ -37322,6 +37407,8 @@
     <property role="TrG5h" value="Retrofuturistic MVVM: Achieving View Purity with MobX ViewModels by Dan Imhoff" />
     <property role="V3bUu" value="RetrofuturisticMvvmMobXViewModels" />
     <property role="1i4R1u" value="3N9eFDIQ$FD/PersonalBlog" />
+    <property role="2ho9Ze" value="Website" />
+    <property role="2hp5Nv" value="2022-04" />
     <node concept="6LUZZ" id="35OUHiw3XVG" role="6QsMZ">
       <ref role="6LUZK" node="2junG74ruiU" resolve="ReactJS" />
     </node>
@@ -37957,6 +38044,8 @@
     <property role="TrG5h" value="Mercari Engineering Portal - Introducing ViewModel Inputs/Outputs: a modern approach to MVVM architecture" />
     <property role="V3bUu" value="MercariViewModelInputsOutputs" />
     <property role="1i4R1u" value="33OMaNyRXhQ/Article" />
+    <property role="2hp5Nv" value="2019-06" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="6LUZZ" id="35OUHiw3Z0c" role="6QsMZ">
       <ref role="6LUZK" node="2junG74ry3W" resolve="iOS" />
     </node>
@@ -38656,6 +38745,8 @@
     <property role="TrG5h" value="Saeed - Model-View-ViewModel (MVVM) - Part 2 - IDisposable" />
     <property role="1i4R1u" value="3N9eFDIQ$FD/PersonalBlog" />
     <property role="V3bUu" value="Saeed" />
+    <property role="2hp5Nv" value="2014-06" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="6QWzY" id="35OUHiw41y5" role="6Q$P_">
       <ref role="6QWzO" node="33OMaNyS4FQ" resolve="TODO" />
     </node>
@@ -40377,6 +40468,8 @@
     <property role="TrG5h" value="Udemy Blog on C# ViewModel" />
     <property role="1i4R1u" value="33OMaNyRXhQ/Article" />
     <property role="V3bUu" value="UdemyBlogCsViewModel" />
+    <property role="2hp5Nv" value="2014-05" />
+    <property role="2ho9Ze" value="Website Metadata article:published_time" />
     <node concept="6QWzY" id="35OUHiw43mK" role="6Q$P_">
       <ref role="6QWzO" node="33OMaNyS4FQ" resolve="TODO" />
     </node>
@@ -42303,6 +42396,8 @@
     <property role="TrG5h" value="zsmb.co - An Early Look at ViewModel SavedState" />
     <property role="1i4R1u" value="3N9eFDIQ$FD/PersonalBlog" />
     <property role="V3bUu" value="ZsmbEarlyLookAtViewModelSaveState" />
+    <property role="2hp5Nv" value="2019-03" />
+    <property role="2ho9Ze" value="Website" />
     <node concept="6LUZZ" id="35OUHiw44yO" role="6QsMZ">
       <ref role="6LUZK" node="5yXA7NP8cLX" resolve="Android" />
     </node>
