@@ -88,13 +88,6 @@
     <node concept="PrWs8" id="hCjQGZpcDq" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
-    <node concept="1TJgyj" id="hCjQGZpwSl" role="1TKVEi">
-      <property role="IQ2ns" value="317591095773367829" />
-      <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="sources" />
-      <property role="20lbJX" value="fLJekj5/_0__n" />
-      <ref role="20lvS9" node="hCjQGZpcDE" resolve="LiteratureSource" />
-    </node>
     <node concept="1irR5M" id="3N9eFDIR9Al" role="rwd14">
       <property role="2$rrk2" value="1" />
       <node concept="1irR9n" id="3N9eFDIR9Ap" role="1irR9h">

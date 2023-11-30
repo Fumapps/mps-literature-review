@@ -31,7 +31,6 @@
       <concept id="1080736578640" name="jetbrains.mps.lang.editor.structure.BaseEditorComponent" flags="ig" index="2wURMF">
         <child id="1080736633877" name="cellModel" index="2wV5jI" />
       </concept>
-      <concept id="1239814640496" name="jetbrains.mps.lang.editor.structure.CellLayout_VerticalGrid" flags="nn" index="2EHx9g" />
       <concept id="1078938745671" name="jetbrains.mps.lang.editor.structure.EditorComponentDeclaration" flags="ig" index="PKFIW" />
       <concept id="1078939183254" name="jetbrains.mps.lang.editor.structure.CellModel_Component" flags="sg" stub="3162947552742194261" index="PMmxH">
         <reference id="1078939183255" name="editorComponent" index="PMmxG" />
@@ -146,13 +145,6 @@
       </node>
       <node concept="3F0A7n" id="hCjQGZpwU1" role="3EZMnx">
         <ref role="1NtTu8" to="tpck:h0TrG11" resolve="name" />
-      </node>
-      <node concept="3F2HdR" id="hCjQGZpwUn" role="3EZMnx">
-        <ref role="1NtTu8" to="fg5c:hCjQGZpwSl" resolve="sources" />
-        <node concept="2EHx9g" id="hCjQGZpwVa" role="2czzBx" />
-        <node concept="pVoyu" id="hCjQGZpwUG" role="3F10Kt">
-          <property role="VOm3f" value="true" />
-        </node>
       </node>
       <node concept="l2Vlx" id="hCjQGZpwTd" role="2iSdaV" />
     </node>

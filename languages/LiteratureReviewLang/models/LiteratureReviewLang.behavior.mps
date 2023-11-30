@@ -91,7 +91,17 @@
       <concept id="1146644602865" name="jetbrains.mps.baseLanguage.structure.PublicVisibility" flags="nn" index="3Tm1VV" />
     </language>
     <language id="7866978e-a0f0-4cc7-81bc-4d213d9375e1" name="jetbrains.mps.lang.smodel">
+      <concept id="1177026924588" name="jetbrains.mps.lang.smodel.structure.RefConcept_Reference" flags="nn" index="chp4Y">
+        <reference id="1177026940964" name="conceptDeclaration" index="cht4Q" />
+      </concept>
       <concept id="1179409122411" name="jetbrains.mps.lang.smodel.structure.Node_ConceptMethodCall" flags="nn" index="2qgKlT" />
+      <concept id="1143234257716" name="jetbrains.mps.lang.smodel.structure.Node_GetModelOperation" flags="nn" index="I4A8Y" />
+      <concept id="1145383075378" name="jetbrains.mps.lang.smodel.structure.SNodeListType" flags="in" index="2I9FWS">
+        <reference id="1145383142433" name="elementConcept" index="2I9WkF" />
+      </concept>
+      <concept id="1171323947159" name="jetbrains.mps.lang.smodel.structure.Model_NodesOperation" flags="nn" index="2SmgA7">
+        <child id="1758937410080001570" name="conceptArgument" index="1dBWTz" />
+      </concept>
       <concept id="1966870290088668512" name="jetbrains.mps.lang.smodel.structure.Enum_MemberLiteral" flags="ng" index="2ViDtV">
         <reference id="1966870290088668516" name="memberDeclaration" index="2ViDtZ" />
       </concept>
@@ -229,6 +239,34 @@
           <ref role="3uigEE" to="ze1i:~IconResource" resolve="IconResource" />
         </node>
       </node>
+    </node>
+  </node>
+  <node concept="13h7C7" id="IDbyggo0Zk">
+    <ref role="13h7C2" to="fg5c:hCjQGZp8NA" resolve="LiteratureReview" />
+    <node concept="13i0hz" id="IDbyggo0ZB" role="13h7CS">
+      <property role="TrG5h" value="getWebsites" />
+      <node concept="3Tm1VV" id="IDbyggo0ZC" role="1B3o_S" />
+      <node concept="2I9FWS" id="IDbyggo0ZZ" role="3clF45">
+        <ref role="2I9WkF" to="fg5c:3N9eFDIQ$Fz" resolve="WebsiteSource" />
+      </node>
+      <node concept="3clFbS" id="IDbyggo0ZE" role="3clF47">
+        <node concept="3clFbF" id="IDbyggo119" role="3cqZAp">
+          <node concept="2OqwBi" id="IDbyggo1zo" role="3clFbG">
+            <node concept="2OqwBi" id="IDbyggo1dk" role="2Oq$k0">
+              <node concept="13iPFW" id="IDbyggo118" role="2Oq$k0" />
+              <node concept="I4A8Y" id="IDbyggo1mA" role="2OqNvi" />
+            </node>
+            <node concept="2SmgA7" id="IDbyggo1De" role="2OqNvi">
+              <node concept="chp4Y" id="IDbyggo1Vg" role="1dBWTz">
+                <ref role="cht4Q" to="fg5c:3N9eFDIQ$Fz" resolve="WebsiteSource" />
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node concept="13hLZK" id="IDbyggo0Zl" role="13h7CW">
+      <node concept="3clFbS" id="IDbyggo0Zm" role="2VODD2" />
     </node>
   </node>
 </model>

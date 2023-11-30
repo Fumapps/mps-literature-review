@@ -64,6 +64,7 @@
         <child id="8356006588849074906" name="contras" index="6Q$Py" />
         <child id="8356006588849074909" name="designCriterias" index="6Q$P_" />
       </concept>
+      <concept id="317591095773269222" name="LiteratureReviewLang.structure.LiteratureReview" flags="ng" index="V3ced" />
       <concept id="4380096684992645859" name="LiteratureReviewLang.structure.WebsiteSource" flags="ng" index="1i4R1p">
         <property id="4380096684992645860" name="type" index="1i4R1u" />
         <property id="4380096684992645861" name="url" index="1i4R1v" />
@@ -82238,6 +82239,9 @@
         </node>
       </node>
     </node>
+  </node>
+  <node concept="V3ced" id="IDbyggnIw6">
+    <property role="TrG5h" value="MvvmReview" />
   </node>
 </model>
 

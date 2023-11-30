@@ -14,7 +14,8 @@ tmp
 # MPS
 # -----------------------------------------------------------
 classes_gen
-source_gen
+**/source_gen/*
+!**/source_gen/markdown
 source_gen.caches
 test_gen
 test_gen.caches
