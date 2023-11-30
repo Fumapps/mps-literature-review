@@ -33,7 +33,7 @@
 |ValueOfStateSharedFlowViewModels|valueof.io - StateFlow and SharedFlow in ViewModels|https://www.valueof.io/blog/stateflow-sharedflow-flow-viewmodel-lifecycle|TO DO|
 |AndroidWaveFragmentCommViewModel|AndroidWave - Fragment Communication using ViewModel|https://androidwave.com/fragment-communication-using-viewmodel/|TO DO|
 |TutlaneViewModelAspNetMvc|Tutlane - ViewModel in Asp.Net MVC|https://www.tutlane.com/tutorial/aspnet-mvc/how-to-use-viewmodel-in-asp-net-mvc-with-example|TO DO|
-|AdobeDevsViewModels|Adobe Developer - View models|https://developer.adobe.com/commerce/php/development/components/view-models/|TO DO|
+|AdobeDevsViewModels|Adobe Developer - View models|https://developer.adobe.com/commerce/php/development/components/view-models/|Reject|
 |RedditYouDontNeedAndroidViewModel|Reddit - You Don't Need Android ViewModel, Here is Why|https://www.reddit.com/r/android_devs/comments/vhhgq5/you_dont_need_android_viewmodel_here_is_why/|TO DO|
 |KodecoMvvm|Kodeco - Model View ViewModel Theory|https://www.kodeco.com/books/advanced-android-app-architecture/v1.0/chapters/10-model-view-viewmodel-theory|TO DO|
 |SweStackExchangeViewModelExactlyModel|Software Engineering Stack Exchange - Is that good idea to add ViewModel exactly same as Model|https://softwareengineering.stackexchange.com/questions/293224/is-that-good-idea-to-add-viewmodel-exactly-same-as-model|TO DO|

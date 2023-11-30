@@ -58,6 +58,7 @@
         <property id="8356006588849130622" name="standardDefinition" index="6QRf6" />
         <property id="3563731404096566554" name="publicationDateSource" index="2ho9Ze" />
         <property id="3563731404096321035" name="publicationDate" index="2hp5Nv" />
+        <property id="840253537909187126" name="reviewStatus" index="rZCKi" />
         <property id="317591095773295093" name="key" index="V3bUu" />
         <child id="8356006588849304327" name="technologySpecifics" index="6QsMZ" />
         <child id="8356006588849074904" name="benefits" index="6Q$Pw" />
@@ -27039,7 +27040,8 @@
     <property role="V3bUu" value="AdobeDevsViewModels" />
     <property role="2hp5Nv" value="2022-08" />
     <property role="2ho9Ze" value="web.archive.org" />
-    <property role="3GE5qa" value="websites" />
+    <property role="3GE5qa" value="_reject.websites" />
+    <property role="rZCKi" value="IDbygglU8E/Reject" />
     <node concept="6LUZZ" id="S91WZfSYYu" role="6QsMZ">
       <ref role="6LUZK" node="S91WZfT3i8" resolve="Magento Framework" />
     </node>
@@ -27856,6 +27858,43 @@
         </node>
         <node concept="3oM_SD" id="S91WZfT3d7" role="1PaTwD">
           <property role="3oM_SC" value="classes." />
+        </node>
+      </node>
+    </node>
+    <node concept="1Pa9Pv" id="IDbyggp96D" role="6Q$PM">
+      <node concept="1PaTwC" id="IDbyggp96E" role="1PaQFQ">
+        <node concept="3oM_SD" id="IDbyggp96M" role="1PaTwD">
+          <property role="3oM_SC" value="Reject," />
+        </node>
+        <node concept="3oM_SD" id="IDbyggp96O" role="1PaTwD">
+          <property role="3oM_SC" value="since" />
+        </node>
+        <node concept="3oM_SD" id="IDbyggp96R" role="1PaTwD">
+          <property role="3oM_SC" value="it" />
+        </node>
+        <node concept="3oM_SD" id="IDbyggp96V" role="1PaTwD">
+          <property role="3oM_SC" value="does" />
+        </node>
+        <node concept="3oM_SD" id="IDbyggp970" role="1PaTwD">
+          <property role="3oM_SC" value="not" />
+        </node>
+        <node concept="3oM_SD" id="IDbyggp976" role="1PaTwD">
+          <property role="3oM_SC" value="really" />
+        </node>
+        <node concept="3oM_SD" id="IDbyggp97d" role="1PaTwD">
+          <property role="3oM_SC" value="add" />
+        </node>
+        <node concept="3oM_SD" id="IDbyggp97l" role="1PaTwD">
+          <property role="3oM_SC" value="a" />
+        </node>
+        <node concept="3oM_SD" id="IDbyggp97u" role="1PaTwD">
+          <property role="3oM_SC" value="new" />
+        </node>
+        <node concept="3oM_SD" id="IDbyggp97C" role="1PaTwD">
+          <property role="3oM_SC" value="design" />
+        </node>
+        <node concept="3oM_SD" id="IDbyggp97N" role="1PaTwD">
+          <property role="3oM_SC" value="aspect" />
         </node>
       </node>
     </node>
