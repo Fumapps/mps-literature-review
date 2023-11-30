@@ -29,6 +29,7 @@
     <language id="c72da2b9-7cce-4447-8389-f407dc1158b7" name="jetbrains.mps.lang.structure">
       <concept id="3348158742936976480" name="jetbrains.mps.lang.structure.structure.EnumerationMemberDeclaration" flags="ng" index="25R33">
         <property id="1421157252384165432" name="memberId" index="3tVfz5" />
+        <property id="672037151186491528" name="presentation" index="1L1pqM" />
       </concept>
       <concept id="3348158742936976479" name="jetbrains.mps.lang.structure.structure.EnumerationDeclaration" flags="ng" index="25R3W">
         <reference id="1075010451642646892" name="defaultMember" index="1H5jkz" />
@@ -169,6 +170,11 @@
       <property role="IQ2nx" value="3563731404096566554" />
       <property role="TrG5h" value="publicationDateSource" />
       <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
+    </node>
+    <node concept="1TJgyi" id="IDbygglU8Q" role="1TKVEl">
+      <property role="IQ2nx" value="840253537909187126" />
+      <property role="TrG5h" value="reviewStatus" />
+      <ref role="AX2Wp" node="IDbygglU8_" resolve="ReviewStatus" />
     </node>
   </node>
   <node concept="1TIwiD" id="hCjQGZpf4A">
@@ -486,6 +492,25 @@
     <property role="3GE5qa" value="source.website" />
     <property role="TrG5h" value="MonthAndYear" />
     <property role="FLfZY" value="\\d\\d\\d\\d-\\d\\d" />
+  </node>
+  <node concept="25R3W" id="IDbygglU8_">
+    <property role="3F6X1D" value="840253537909187109" />
+    <property role="3GE5qa" value="source" />
+    <property role="TrG5h" value="ReviewStatus" />
+    <ref role="1H5jkz" node="IDbygglU8A" resolve="Todo" />
+    <node concept="25R33" id="IDbygglU8A" role="25R1y">
+      <property role="3tVfz5" value="840253537909187110" />
+      <property role="TrG5h" value="Todo" />
+      <property role="1L1pqM" value="TO DO" />
+    </node>
+    <node concept="25R33" id="IDbygglU8B" role="25R1y">
+      <property role="3tVfz5" value="840253537909187111" />
+      <property role="TrG5h" value="Relevant" />
+    </node>
+    <node concept="25R33" id="IDbygglU8E" role="25R1y">
+      <property role="3tVfz5" value="840253537909187114" />
+      <property role="TrG5h" value="Reject" />
+    </node>
   </node>
 </model>
 
