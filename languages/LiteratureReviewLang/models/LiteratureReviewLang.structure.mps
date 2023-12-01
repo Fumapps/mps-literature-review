@@ -437,11 +437,15 @@
     <property role="EcuMT" value="8356006588849174342" />
     <property role="3GE5qa" value="source.criteria" />
     <property role="TrG5h" value="DesignCriteriaRef" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="7fQvVxPbrtc" role="1TKVEi">
       <property role="IQ2ns" value="8356006588849174348" />
       <property role="20kJfa" value="design" />
       <property role="20lbJX" value="fLJekj4/_1" />
       <ref role="20lvS9" node="7fQvVxPb3b3" resolve="DesignCriteria" />
+    </node>
+    <node concept="PrWs8" id="6F3jcaRDzh4" role="PzmwI">
+      <ref role="PrY4T" node="6F3jcaRDzh2" resolve="IHasReason" />
     </node>
   </node>
   <node concept="1TIwiD" id="7fQvVxPbVbX">
@@ -503,6 +507,17 @@
     <node concept="25R33" id="IDbygglU8E" role="25R1y">
       <property role="3tVfz5" value="840253537909187114" />
       <property role="TrG5h" value="Reject" />
+    </node>
+  </node>
+  <node concept="PlHQZ" id="6F3jcaRDzh2">
+    <property role="EcuMT" value="7693076987667428418" />
+    <property role="3GE5qa" value="source.criteria" />
+    <property role="TrG5h" value="IHasReason" />
+    <node concept="1TJgyj" id="6F3jcaRDzgN" role="1TKVEi">
+      <property role="IQ2ns" value="7693076987667428403" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="reason" />
+      <ref role="20lvS9" to="zqge:2cLqkTm6vgh" resolve="Text" />
     </node>
   </node>
 </model>
