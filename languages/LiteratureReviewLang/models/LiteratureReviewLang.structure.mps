@@ -319,6 +319,13 @@
     <property role="34LRSv" value="design criteria" />
     <property role="19KtqR" value="true" />
     <ref role="1TJDcQ" node="7fQvVxPb3b4" resolve="Criteria" />
+    <node concept="1TJgyj" id="5EoXOCxApXY" role="1TKVEi">
+      <property role="IQ2ns" value="6528239557636890494" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="relatesTo" />
+      <property role="20lbJX" value="fLJekj5/_0__n" />
+      <ref role="20lvS9" node="7fQvVxPbrt6" resolve="DesignCriteriaRef" />
+    </node>
     <node concept="PrWs8" id="7fQvVxPb3b5" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
