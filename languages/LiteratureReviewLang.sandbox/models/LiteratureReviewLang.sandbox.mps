@@ -2414,7 +2414,7 @@
   </node>
   <node concept="6Q$PV" id="7fQvVxPbsAS">
     <property role="TrG5h" value="Lifecycle Aspects" />
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
   </node>
   <node concept="1i4R1p" id="7fQvVxPbTZJ">
     <property role="TrG5h" value="MVC vs MVVM - Difference Between Them" />
@@ -91518,7 +91518,7 @@
     <property role="TrG5h" value="MvvmReview" />
   </node>
   <node concept="6Q$PV" id="6F3jcaREytS">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="ViewModel as State Share" />
     <node concept="1Pa9Pv" id="6F3jcaREytT" role="6Q$PM">
       <node concept="1PaTwC" id="6F3jcaREytU" role="1PaQFQ">
@@ -92209,7 +92209,7 @@
     </node>
   </node>
   <node concept="6Q$PE" id="6TZsuqO5fkg">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.benefitcriteria" />
     <property role="TrG5h" value="Less Boilerplate by Library" />
     <node concept="1Pa9Pv" id="6TZsuqO5fkh" role="6Q$PM">
       <node concept="1PaTwC" id="6TZsuqO5fki" role="1PaQFQ">
@@ -92300,7 +92300,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="4xn8RfJjOMM">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="Imperative vs. Reactive ViewModels" />
     <node concept="1Pa9Pv" id="4xn8RfJjOMN" role="6Q$PM">
       <node concept="1PaTwC" id="4xn8RfJjOMO" role="1PaQFQ">
@@ -92433,7 +92433,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="7NWUvmLDJ$W">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="ViewModel as DTO" />
     <node concept="1Pa9Pv" id="7NWUvmLDJ$X" role="6Q$PM">
       <node concept="1PaTwC" id="7NWUvmLDJ$Y" role="1PaQFQ">
@@ -92489,11 +92489,11 @@
     </node>
   </node>
   <node concept="6Q$PH" id="7NWUvmLDJBA">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.contracriteria" />
     <property role="TrG5h" value="Lot of Boilerplate" />
   </node>
   <node concept="6Q$PV" id="7xkL1lFz_Wv">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="Asynchronous Data Loading Init" />
     <node concept="1Pa9Pv" id="7xkL1lFz_Ww" role="6Q$PM">
       <node concept="1PaTwC" id="7xkL1lFz_Wx" role="1PaQFQ">
@@ -92603,7 +92603,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="7xkL1lFzA6U">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="Asynchronous Commands" />
     <node concept="1Pa9Pv" id="7xkL1lFzA6V" role="6Q$PM">
       <node concept="1PaTwC" id="7xkL1lFzA6W" role="1PaQFQ">
@@ -92739,7 +92739,7 @@
     </node>
   </node>
   <node concept="6Q$PH" id="56WoLHHkNMN">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.contracriteria" />
     <property role="TrG5h" value="ViewModel with many Responsibilities" />
     <node concept="1Pa9Pv" id="56WoLHHkNQb" role="6Q$PM">
       <node concept="1PaTwC" id="56WoLHHkNQc" role="1PaQFQ">
@@ -92955,7 +92955,7 @@
     </node>
   </node>
   <node concept="6Q$PH" id="56WoLHHkNWU">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.contracriteria" />
     <property role="TrG5h" value="Poor Reusability of ViewModels" />
     <node concept="1Pa9Pv" id="56WoLHHkNWV" role="6Q$PM">
       <node concept="1PaTwC" id="56WoLHHkNWW" role="1PaQFQ">
@@ -93077,7 +93077,7 @@
     </node>
   </node>
   <node concept="6Q$PH" id="56WoLHHkOeN">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.contracriteria" />
     <property role="TrG5h" value="Difficult Testability" />
     <node concept="1Pa9Pv" id="56WoLHHkOeO" role="6Q$PM">
       <node concept="1PaTwC" id="56WoLHHkOeP" role="1PaQFQ">
@@ -93200,7 +93200,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5ddnnFjdzp$">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="Localization in View" />
     <node concept="1Pa9Pv" id="5ddnnFjdzp_" role="6Q$PM">
       <node concept="1PaTwC" id="5ddnnFjdzpA" role="1PaQFQ">
@@ -93229,7 +93229,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5ddnnFjdztM">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="Navigation in View" />
     <node concept="1Pa9Pv" id="5ddnnFjdztN" role="6Q$PM">
       <node concept="1PaTwC" id="5ddnnFjdztO" role="1PaQFQ">
@@ -93258,7 +93258,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5EoXOCxAjSc">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="Command Layer for non-UI Triggers" />
     <node concept="1Pa9Pv" id="5EoXOCxAjSd" role="6Q$PM">
       <node concept="1PaTwC" id="5EoXOCxAjSe" role="1PaQFQ">
@@ -93664,7 +93664,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5EoXOCxAkD_">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="ViewModel Refreshes all Bindings on Model Change" />
     <node concept="6QWzY" id="5EoXOCxBVBU" role="1V0mwO">
       <ref role="6QWzO" node="5EoXOCxAjSc" resolve="Commands for non-UI Triggers" />
@@ -94043,7 +94043,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5bex_igF4ov">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="ViewModel Field Names are View Oriented" />
     <node concept="1Pa9Pv" id="5bex_igF4ow" role="6Q$PM">
       <node concept="1PaTwC" id="5bex_igF4ox" role="1PaQFQ">
@@ -94283,7 +94283,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5Lx72iwtoKX">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="Reuseable ViewModel" />
     <node concept="1Pa9Pv" id="5Lx72iwtoL2" role="6Q$PM">
       <node concept="1PaTwC" id="5Lx72iwtoLm" role="1PaQFQ">
@@ -94365,7 +94365,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5Lx72iwtoKY">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="Humble View" />
     <node concept="6QWzY" id="5Lx72iwtoPl" role="1V0mwO">
       <ref role="6QWzO" node="5Lx72iwtoKX" resolve="Reuseable ViewModel" />
@@ -94499,7 +94499,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5Lx72iwtp0k">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="ViewModel Composite of Delegates" />
     <node concept="1Pa9Pv" id="5Lx72iwtp0l" role="6Q$PM">
       <node concept="1PaTwC" id="5Lx72iwtp0m" role="1PaQFQ">
@@ -94626,7 +94626,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5Lx72iwu9US">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="Hierarchy of ViewModels" />
     <node concept="1Pa9Pv" id="5Lx72iwu9UT" role="6Q$PM">
       <node concept="1PaTwC" id="5Lx72iwu9UU" role="1PaQFQ">
@@ -94704,11 +94704,11 @@
     </node>
   </node>
   <node concept="6Q$PH" id="5Lx72iwua8u">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.contracriteria" />
     <property role="TrG5h" value="Separation of Developer-Designer Workflows does not work" />
   </node>
   <node concept="6Q$PV" id="5Lx72iwuapz">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="View and ViewModel are a Tandem" />
     <node concept="1Pa9Pv" id="5Lx72iwuap$" role="6Q$PM">
       <node concept="1PaTwC" id="5Lx72iwuap_" role="1PaQFQ">
@@ -94829,7 +94829,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5Lx72iwuwZt">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="Navigation in Coordinator (MVVM-C)" />
     <node concept="1Pa9Pv" id="5Lx72iwuwZu" role="6Q$PM">
       <node concept="1PaTwC" id="5Lx72iwuwZv" role="1PaQFQ">
@@ -95116,7 +95116,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5Lx72iwzopM">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="ViewModel with View Interface" />
     <node concept="1Pa9Pv" id="5Lx72iwzopN" role="6Q$PM">
       <node concept="1PaTwC" id="5Lx72iwzopO" role="1PaQFQ">
@@ -95209,7 +95209,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5Lx72iwzowL">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="ViewModel without Model Types" />
     <node concept="1Pa9Pv" id="5Lx72iwzowM" role="6Q$PM">
       <node concept="1PaTwC" id="5Lx72iwzowN" role="1PaQFQ">
@@ -95437,7 +95437,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5Lx72iwzoCd">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="Formatting not in ViewModel" />
     <node concept="6QWzY" id="5Lx72iwzoCe" role="1V0mwO">
       <ref role="6QWzO" node="5ddnnFjdzp$" resolve="Localization in View" />
@@ -95733,7 +95733,7 @@
     </node>
   </node>
   <node concept="6Q$PV" id="5Lx72iwzoNP">
-    <property role="3GE5qa" value="criteria" />
+    <property role="3GE5qa" value="criteria.designcriteria" />
     <property role="TrG5h" value="Networking Code not in ViewModel class" />
     <node concept="1Pa9Pv" id="5Lx72iwzoNT" role="6Q$PM">
       <node concept="1PaTwC" id="5Lx72iwzoNU" role="1PaQFQ">
