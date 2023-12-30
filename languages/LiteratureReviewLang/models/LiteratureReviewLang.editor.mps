@@ -260,7 +260,7 @@
     </language>
   </registry>
   <node concept="24kQdi" id="hCjQGZpfcx">
-    <property role="3GE5qa" value="source.paper" />
+    <property role="3GE5qa" value="source.scholar" />
     <ref role="1XX52x" to="fg5c:hCjQGZpf4A" resolve="ScholarSource" />
     <node concept="3EZMnI" id="hCjQGZpfcS" role="2wV5jI">
       <node concept="VPXOz" id="hCjQGZpwWM" role="3F10Kt">
@@ -280,6 +280,12 @@
       </node>
       <node concept="225u1i" id="hCjQGZpfhU" role="3EZMnx">
         <ref role="1NtTu8" to="fg5c:hCjQGZpfgr" resolve="url" />
+      </node>
+      <node concept="PMmxH" id="5Z_aVsLdk2c" role="3EZMnx">
+        <ref role="PMmxG" node="7fQvVxPbmd6" resolve="LiteratureSource_EditorComponent_Criteria" />
+        <node concept="pVoyu" id="5Z_aVsLdk2o" role="3F10Kt">
+          <property role="VOm3f" value="true" />
+        </node>
       </node>
       <node concept="3F0ifn" id="hCjQGZpNeO" role="3EZMnx">
         <property role="3F0ifm" value="notes:" />
@@ -302,6 +308,15 @@
       <node concept="l2Vlx" id="hCjQGZpNdK" role="2iSdaV" />
       <node concept="PMmxH" id="hCjQGZpFXq" role="3EZMnx">
         <ref role="PMmxG" node="hCjQGZp$JN" resolve="LiteratureSource_EditorComponent_Inspector" />
+      </node>
+      <node concept="3F0ifn" id="5Z_aVsLdk2t" role="3EZMnx">
+        <property role="3F0ifm" value="author:" />
+        <node concept="pVoyu" id="5Z_aVsLdk2E" role="3F10Kt">
+          <property role="VOm3f" value="true" />
+        </node>
+      </node>
+      <node concept="3F0A7n" id="5Z_aVsLdk2_" role="3EZMnx">
+        <ref role="1NtTu8" to="fg5c:hCjQGZpNd8" resolve="author" />
       </node>
     </node>
   </node>

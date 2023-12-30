@@ -174,7 +174,7 @@
     <property role="EcuMT" value="317591095773294886" />
     <property role="TrG5h" value="ScholarSource" />
     <property role="34LRSv" value="scholar" />
-    <property role="3GE5qa" value="source.paper" />
+    <property role="3GE5qa" value="source.scholar" />
     <property role="19KtqR" value="true" />
     <ref role="1TJDcQ" node="hCjQGZpcDE" resolve="LiteratureSource" />
     <node concept="1TJgyi" id="hCjQGZpfbV" role="1TKVEl">
@@ -210,7 +210,7 @@
   <node concept="25R3W" id="hCjQGZpf9M">
     <property role="3F6X1D" value="317591095773295218" />
     <property role="TrG5h" value="ScholarType" />
-    <property role="3GE5qa" value="source.paper" />
+    <property role="3GE5qa" value="source.scholar" />
     <ref role="1H5jkz" node="hCjQGZpfbr" resolve="Undefined" />
     <node concept="25R33" id="hCjQGZpf9N" role="25R1y">
       <property role="3tVfz5" value="317591095773295219" />
@@ -244,11 +244,6 @@
     <node concept="1TJgyi" id="3N9eFDIQ$F_" role="1TKVEl">
       <property role="IQ2nx" value="4380096684992645861" />
       <property role="TrG5h" value="url" />
-      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
-    </node>
-    <node concept="1TJgyi" id="3N9eFDIQ$FA" role="1TKVEl">
-      <property role="IQ2nx" value="4380096684992645862" />
-      <property role="TrG5h" value="author" />
       <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
     </node>
     <node concept="1TJgyj" id="3N9eFDIQ$FB" role="1TKVEi">
