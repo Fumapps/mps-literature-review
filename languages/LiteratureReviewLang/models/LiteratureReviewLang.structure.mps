@@ -224,6 +224,10 @@
       <property role="3tVfz5" value="4380096684992645842" />
       <property role="TrG5h" value="Article" />
     </node>
+    <node concept="25R33" id="5Z_aVsLecS9" role="25R1y">
+      <property role="3tVfz5" value="6909977269074710025" />
+      <property role="TrG5h" value="Thesis" />
+    </node>
     <node concept="25R33" id="hCjQGZpfbr" role="25R1y">
       <property role="3tVfz5" value="317591095773295323" />
       <property role="TrG5h" value="Undefined" />
@@ -490,7 +494,7 @@
     <property role="3F6X1D" value="3563731404096321040" />
     <property role="3GE5qa" value="source.website" />
     <property role="TrG5h" value="MonthAndYear" />
-    <property role="FLfZY" value="\\d\\d\\d\\d-\\d\\d" />
+    <property role="FLfZY" value="\\d\\d\\d\\d(-\\d\\d)?" />
   </node>
   <node concept="25R3W" id="IDbygglU8_">
     <property role="3F6X1D" value="840253537909187109" />

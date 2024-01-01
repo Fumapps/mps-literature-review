@@ -1386,7 +1386,7 @@
       <ref role="1bYAoF" node="5Z_aVsL9p_b" resolve="PasteAsScholarSource" />
       <node concept="pLAjd" id="5Z_aVsLadr9" role="Zd501">
         <property role="pLAjc" value="ctrl+shift" />
-        <property role="pLAjf" value="B" />
+        <property role="pLAjf" value="P" />
       </node>
     </node>
   </node>
