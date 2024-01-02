@@ -220,9 +220,13 @@
       <property role="3tVfz5" value="317591095773295255" />
       <property role="TrG5h" value="Book" />
     </node>
+    <node concept="25R33" id="5Z_aVsLeNMR" role="25R1y">
+      <property role="3tVfz5" value="6909977269074869431" />
+      <property role="TrG5h" value="BookChapter" />
+    </node>
     <node concept="25R33" id="3N9eFDIQ$Fi" role="25R1y">
       <property role="3tVfz5" value="4380096684992645842" />
-      <property role="TrG5h" value="Article" />
+      <property role="TrG5h" value="TechnicalReport" />
     </node>
     <node concept="25R33" id="5Z_aVsLecS9" role="25R1y">
       <property role="3tVfz5" value="6909977269074710025" />
