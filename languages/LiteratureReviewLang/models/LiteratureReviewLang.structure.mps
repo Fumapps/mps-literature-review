@@ -2,6 +2,7 @@
 <model ref="r:f33beb03-699e-4e5f-90c4-4611f66834cd(LiteratureReviewLang.structure)">
   <persistence version="9" />
   <languages>
+    <use id="c72da2b9-7cce-4447-8389-f407dc1158b7" name="jetbrains.mps.lang.structure" version="9" />
     <devkit ref="78434eb8-b0e5-444b-850d-e7c4ad2da9ab(jetbrains.mps.devkit.aspect.structure)" />
   </languages>
   <imports>
@@ -169,6 +170,12 @@
       <property role="TrG5h" value="reviewStatus" />
       <ref role="AX2Wp" node="IDbygglU8_" resolve="ReviewStatus" />
     </node>
+    <node concept="1TJgyj" id="7fQvVxPbbAv" role="1TKVEi">
+      <property role="IQ2ns" value="8356006588849109407" />
+      <property role="20kJfa" value="chatGptAnalysis" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <ref role="20lvS9" to="zqge:2cLqkTm6vgh" resolve="Text" />
+    </node>
   </node>
   <node concept="1TIwiD" id="hCjQGZpf4A">
     <property role="EcuMT" value="317591095773294886" />
@@ -260,12 +267,6 @@
       <property role="20kJfa" value="summary" />
       <property role="20lbJX" value="fLJekj5/_0__n" />
       <ref role="20lvS9" to="zqge:2cLqkTm6J5A" resolve="Line" />
-    </node>
-    <node concept="1TJgyj" id="7fQvVxPbbAv" role="1TKVEi">
-      <property role="IQ2ns" value="8356006588849109407" />
-      <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="chatGptScan" />
-      <ref role="20lvS9" to="zqge:2cLqkTm6vgh" resolve="Text" />
     </node>
     <node concept="1irR5M" id="3N9eFDIRahS" role="rwd14">
       <property role="2$rrk2" value="3" />

@@ -914,7 +914,7 @@
                                   <ref role="3cqZAo" node="3vZZtDHvIur" resolve="node" />
                                 </node>
                                 <node concept="3TrEf2" id="3vZZtDHvPOz" role="2OqNvi">
-                                  <ref role="3Tt5mk" to="fg5c:7fQvVxPbbAv" resolve="chatGptScan" />
+                                  <ref role="3Tt5mk" to="fg5c:7fQvVxPbbAv" resolve="chatGptAnalysis" />
                                 </node>
                               </node>
                               <node concept="zfrQC" id="3vZZtDHvQTD" role="2OqNvi" />
@@ -959,7 +959,7 @@
                                           <ref role="3cqZAo" node="3vZZtDHvIur" resolve="node" />
                                         </node>
                                         <node concept="3TrEf2" id="3vZZtDHxV$q" role="2OqNvi">
-                                          <ref role="3Tt5mk" to="fg5c:7fQvVxPbbAv" resolve="chatGptScan" />
+                                          <ref role="3Tt5mk" to="fg5c:7fQvVxPbbAv" resolve="chatGptAnalysis" />
                                         </node>
                                       </node>
                                       <node concept="3Tsc0h" id="3vZZtDHxXSy" role="2OqNvi">
@@ -977,7 +977,7 @@
                                       <ref role="3cqZAo" node="3vZZtDHvIur" resolve="node" />
                                     </node>
                                     <node concept="3TrEf2" id="3vZZtDHvRep" role="2OqNvi">
-                                      <ref role="3Tt5mk" to="fg5c:7fQvVxPbbAv" resolve="chatGptScan" />
+                                      <ref role="3Tt5mk" to="fg5c:7fQvVxPbbAv" resolve="chatGptAnalysis" />
                                     </node>
                                   </node>
                                   <node concept="2qgKlT" id="3vZZtDHwfdz" role="2OqNvi">
