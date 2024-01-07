@@ -382,16 +382,21 @@
               </node>
             </node>
           </node>
-          <node concept="17QLQc" id="403817D06Gi" role="3uHU7w">
-            <node concept="37vLTw" id="403817D06cp" role="3uHU7B">
-              <ref role="3cqZAo" node="403817D05Wg" resolve="expectedPackage" />
-            </node>
-            <node concept="2OqwBi" id="403817D06GG" role="3uHU7w">
-              <node concept="1YBJjd" id="403817D06GH" role="2Oq$k0">
-                <ref role="1YBMHb" node="403817CZNFh" resolve="criteria" />
+          <node concept="3fqX7Q" id="3xzXwj$bT7V" role="3uHU7w">
+            <node concept="2OqwBi" id="3xzXwj$bUUh" role="3fr31v">
+              <node concept="2OqwBi" id="3xzXwj$bT8Q" role="2Oq$k0">
+                <node concept="1YBJjd" id="3xzXwj$bT8R" role="2Oq$k0">
+                  <ref role="1YBMHb" node="403817CZNFh" resolve="criteria" />
+                </node>
+                <node concept="3TrcHB" id="3xzXwj$bT8S" role="2OqNvi">
+                  <ref role="3TsBF5" to="tpck:hnGE5uv" resolve="virtualPackage" />
+                </node>
               </node>
-              <node concept="3TrcHB" id="403817D06GI" role="2OqNvi">
-                <ref role="3TsBF5" to="tpck:hnGE5uv" resolve="virtualPackage" />
+              <node concept="liA8E" id="3xzXwj$bW30" role="2OqNvi">
+                <ref role="37wK5l" to="wyt6:~String.contains(java.lang.CharSequence)" resolve="contains" />
+                <node concept="37vLTw" id="3xzXwj$bW4$" role="37wK5m">
+                  <ref role="3cqZAo" node="403817D05Wg" resolve="expectedPackage" />
+                </node>
               </node>
             </node>
           </node>
