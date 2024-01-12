@@ -2,109 +2,77 @@
 
 | Key | Name | URL | Status |
 | --- | ---- | --- | ------ |
-|GeeksforGeeksMvvmIntro|GeeksforGeeks - Introduction to Model View View Model (MVVM)|https://www.geeksforgeeks.org/introduction-to-model-view-view-model-mvvm/|TO DO|
-|Guru99MvcVsMvvm|MVC vs MVVM - Difference Between Them|https://www.guru99.com/mvc-vs-mvvm.html|TO DO|
-|CocoacastsMvvmSwift|Cocoacasts - Model-View-ViewModel in Swift|https://cocoacasts.com/model-view-viewmodel-in-swift|TO DO|
-|BuiltInWhatIsMvvm|Built In - What Is MVVM Architecture|https://builtin.com/software-engineering-perspectives/mvvm-architecture|TO DO|
-|JavaDesignPatternsMvvm|Java Design Patterns - Model-View-ViewModel|https://java-design-patterns.com/patterns/model-view-viewmodel/|TO DO|
-|DevInsiderMvvm|Dev Insider - Was bedeutet MVVM?|https://www.dev-insider.de/was-bedeutet-mvvm-a-1103448/|TO DO|
-|CsCornerMvvmP1|C# Corner - MVVM (Model View ViewModel) Introduction: Part 1|https://www.c-sharpcorner.com/UploadFile/0b73e1/mvvm-model-view-viewmodel-introduction-part-1/|TO DO|
-|VueJsDocu|Vue.js Documentation - Getting Started|https://012.vuejs.org/guide/|TO DO|
-|RedditDiscussionEli5Mvvm|Reddit - ELI5: How it works and why of Model-View-ViewModel pattern|https://www.reddit.com/r/csELI5/comments/1r0amd/eli5_how_it_works_and_why_of_modelviewviewmodel/|TO DO|
-|Toptal|Toptal - Better Android Apps Using MVVM With Clean Architecture|https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture|TO DO|
-|SitePointWhatIsMvvm|SitePoint Forums - What is a view model?|https://www.sitepoint.com/community/t/what-is-a-view-model/32676|TO DO|
-|MobioMvvm|Mobio Solutions - Model-View-ViewModel|https://mobiosolutions.com/model-view-viewmodel/|TO DO|
-|MillerMvvm|Erdos Miller - Implementing Model/View/View-Model (MVVM Architecture) in LabVIEW|https://info.erdosmiller.com/blog/implementing-model/view/view-model-mvvm-architecture-in-labview|TO DO|
-|MediumLevelUpReactMvvm|Medium (COBE) - Level up your React architecture with MVVM|https://medium.cobeisfresh.com/level-up-your-react-architecture-with-mvvm-a471979e3f21|TO DO|
-|ManferdiniMvvmSwift|Matteo Manferdini - MVVM Design Pattern in iOS with Swift|https://matteomanferdini.com/mvvm-pattern-ios-swift/|TO DO|
-|SweStackExchangeLayeredMvvm|Software Engineering Stack Exchange - Layered Model-View-ViewModel design|https://softwareengineering.stackexchange.com/questions/402653/layered-model-view-viewmodel-design|TO DO|
-|EvozonMvvmReactJs|Evozon - Model-View-ViewModel in ReactJS|https://www.evozon.com/model-view-viewmodel-in-reactjs/|TO DO|
-|KoinAndroidViewModelNav|Koin - Android ViewModel & Navigation|https://insert-koin.io/docs/reference/koin-android/viewmodel|TO DO|
-|TechYourChanceDontAndroidViewModel|TechYourChance - You Don't Need Android ViewModel, Here is Why|https://www.techyourchance.com/you-dont-need-android-viewmodel/|TO DO|
-|CanJsMvvm|CanJS - ViewModel|https://canjs.com/doc/can-component.prototype.ViewModel.html|TO DO|
-|DevCommunityRecommendedViewModel|DEV Community - Recommended Ways To Create ViewModel or AndroidViewModel|https://dev.to/vtsen/recommended-ways-to-create-viewmodel-or-androidviewmodel-5e7k|TO DO|
-|SenchaDocsExtViewModel|Sencha Docs - Ext.app.ViewModel |https://docs.sencha.com/extjs/6.5.3/modern/Ext.app.ViewModel.html|TO DO|
-|FreeCodeCampMvvmAndroidPro|freeCodeCamp - How to Use Model-View-ViewModel on Android Like a Pro|https://www.freecodecamp.org/news/model-view-viewmodel-android-tutorial/|TO DO|
-|CommonWareApplyingViewModel|CommonsWare: Elements of Android Jetpack Book - Applying ViewModel|https://commonsware.com/Jetpack/pages/chap-viewmodel-004.html|TO DO|
-|LearnFromSakiViewModelHiearchy|learnfromsaki - Configuring ViewModel Hierarchy|https://learnfromsaki.com/configuring-viewmodel-hierarchy/|TO DO|
-|HeartbeatCometViewModelsAppState|heartbeat.comet.ml - Using ViewModels in Android to preserve your running app's state|https://heartbeat.comet.ml/using-viewmodels-in-android-to-preserve-your-running-apps-state-e56e63f689f3|TO DO|
-|KotzillaBlog|The Kotzilla Blog - Easier, Better, Stronger with ViewModels|https://blog.kotzilla.io/koin-android-stronger-viewmodel-api/|TO DO|
-|VoyagerAndroidViewModel|voyager.adriel.cafe - Android ViewModel|https://voyager.adriel.cafe/android-viewmodel|TO DO|
-|ValueOfStateSharedFlowViewModels|valueof.io - StateFlow and SharedFlow in ViewModels|https://www.valueof.io/blog/stateflow-sharedflow-flow-viewmodel-lifecycle|TO DO|
-|AndroidWaveFragmentCommViewModel|AndroidWave - Fragment Communication using ViewModel|https://androidwave.com/fragment-communication-using-viewmodel/|TO DO|
-|TutlaneViewModelAspNetMvc|Tutlane - ViewModel in Asp.Net MVC|https://www.tutlane.com/tutorial/aspnet-mvc/how-to-use-viewmodel-in-asp-net-mvc-with-example|TO DO|
-|AdobeDevsViewModels|Adobe Developer - View models|https://developer.adobe.com/commerce/php/development/components/view-models/|Reject|
-|RedditYouDontNeedAndroidViewModel|Reddit - You Don't Need Android ViewModel, Here is Why|https://www.reddit.com/r/android_devs/comments/vhhgq5/you_dont_need_android_viewmodel_here_is_why/|TO DO|
-|KodecoMvvm|Kodeco - Model View ViewModel Theory|https://www.kodeco.com/books/advanced-android-app-architecture/v1.0/chapters/10-model-view-viewmodel-theory|TO DO|
-|SweStackExchangeViewModelExactlyModel|Software Engineering Stack Exchange - Is that good idea to add ViewModel exactly same as Model|https://softwareengineering.stackexchange.com/questions/293224/is-that-good-idea-to-add-viewmodel-exactly-same-as-model|TO DO|
-|TechotopiaAndroidJetpackViewModel|Techotopia - An Android Jetpack ViewModel Tutorial|https://www.techotopia.com/index.php/An_Android_Jetpack_ViewModel_Tutorial|TO DO|
-|CsCornerModelViewModelInMvc|C# Corner - What is Model and ViewModel in MVC Pattern?|https://www.c-sharpcorner.com/UploadFile/abhikumarvatsa/what-is-model-and-viewmodel-in-mvc-pattern/|TO DO|
-|SystangoViewModelAndroid|Systango - What is ViewModel in Android Architecture Component?|https://www.systango.com/blog/what-is-viewmodel-in-android-architecture-component|TO DO|
-|JonDJonesMvcEpiServer|Jon D Jones - What Should The MVC ViewModel Be Used For In Episerver?|https://www.jondjones.com/learn-episerver-cms/episerver-developers-tutorials/episerver-mvc/what-should-the-mvc-viewmodel-be-used-for-in-episerver/|TO DO|
-|MilestoneViewModelComposition|Milestone Servienti - ViewModel Composition|https://milestone.topics.it/series/view-model-composition.html|TO DO|
-|AnswertopiaJetpackViewModelTutorial|Answertopia - A Jetpack Compose ViewModel Tutorial|https://www.answertopia.com/jetpack-compose/a-jetpack-compose-viewmodel-tutorial/|TO DO|
-|HalfbitCompositeViewModel|Halfbit - Composite ViewModel|https://www.halfbit.de/posts/composite-viewmodel/|TO DO|
-|StylingAndroidViewModel|Styling Android - Architecture Components: ViewModel|https://blog.stylingandroid.com/architecture-components-viewmodel/|TO DO|
-|DotNetTricksViewModelAspNetMvc|Dot Net Tricks - Understanding ViewModel in ASP.NET MVC|https://www.dotnettricks.com/learn/mvc/understanding-viewmodel-in-aspnet-mvc|TO DO|
-|NicksDotNetTravelsViewModelNavigationXamarin|Nick's .NET Travels - ViewModel to ViewModel Navigation in a Xamarin.Forms Application with Prism and MvvmCross|https://nicksnettravels.builttoroam.com/post-2019-03-24-viewmodel-to-viewmodel-navigation-in-a-xamarinforms-application-with-prism-and-mvvmcross-aspx/|TO DO|
-|RetrofuturisticMvvmMobXViewModels|Retrofuturistic MVVM: Achieving View Purity with MobX ViewModels by Dan Imhoff|https://imhoff.blog/posts/view-purity-with-mobx-viewmodels|TO DO|
-|MercariViewModelInputsOutputs|Mercari Engineering Portal - Introducing ViewModel Inputs/Outputs: a modern approach to MVVM architecture|https://engineering.mercari.com/en/blog/entry/2019-06-12-120000/|TO DO|
-|Saeed|Saeed - Model-View-ViewModel (MVVM) - Part 2 - IDisposable|https://rehansaeed.com/model-view-viewmodel-mvvm-part2-idisposable/|TO DO|
-|DontCodeTiredReduceMvvmLightViewModelCode|Don't Code Tired - Reducing MVVM Light Viewmodel Code|http://dontcodetired.com/blog/post/Reducing-MVVM-Light-Viewmodel-Code-with-Fody-Property-Dependencies-and-Custom-Property-Changed-Methods|TO DO|
-|UdemyBlogCsViewModel|Udemy Blog on C# ViewModel|https://blog.udemy.com/c-sharp-viewmodel/|TO DO|
-|DamirCornerAvoidAsyncViewModelCtor|Damir's Corner - Avoid async calls in view model constructors|https://www.damirscorner.com/blog/posts/20221021-AvoidAsyncCallsInViewmodelConstructors.html|TO DO|
-|ZsmbEarlyLookAtViewModelSaveState|zsmb.co - An Early Look at ViewModel SavedState|https://zsmb.co/an-early-look-at-viewmodel-savedstate/|TO DO|
-|OldxTechCleanArchitectureMvvmIOS|OLX Tech - Clean Architecture and MVVM on iOS|https://tech.olx.com/clean-architecture-and-mvvm-on-ios-c9d167d9f5b3|TO DO|
-|ItnextSimpleMvvmBlazor|ITNEXT (Medium Article) - A simple MVVM implementation in client side Blazor|https://itnext.io/a-simple-mvvm-implementation-in-client-side-blazor-8c875c365435|TO DO|
-|Sagitec5wsMvvm|Sagitec - The 5W's of MVVM|https://www.sagitec.com/blog/the-5ws-of-mvvm|TO DO|
-|IndeedDifferenceMvvmMvc|Indeed Career Advice - The Difference Between MVVM And MVC (With Pros And Cons)|https://in.indeed.com/career-advice/career-development/difference-between-mvvm-and-mvc|TO DO|
-|RedditWhatIsMvvm|Reddit - "What is MVVM?"|https://www.reddit.com/r/csharp/comments/ttih4e/what_is_mvvm/|TO DO|
-|DevCommunityMvcMvpMvvm|DEV Community - "MVC vs MVP vs MVVM Design Patterns" by Vincent Tsen|https://dev.to/vtsen/mvc-vs-mvp-vs-mvvm-design-patterns-443n|TO DO|
-|ProAndroidDev|ProAndroidDev - "Understanding MVVM pattern for Android in 2021" by Christopher Elias|https://proandroiddev.com/understanding-mvvm-pattern-for-android-in-2021-98b155b37b54|TO DO|
-|LinkedInMvvmTrend|LinkedIn - "Is MVVM a fashion trend?" by Gregory Stein|https://www.linkedin.com/pulse/mvvm-fashion-trend-gregory-stein|TO DO|
-|SectionIoImplementingMvvmAndroidKotlin|Section.io - "Implementing MVVM architecture in Android using Kotlin"|https://www.section.io/engineering-education/implementing-mvvm-architecture-in-android-using-kotlin/|TO DO|
-|SweStackExchange|Software Engineering Stack Exchange - In MVVM, how much of the business logic in View Model / Model|https://softwareengineering.stackexchange.com/questions/437119/in-mvvm-how-much-of-the-business-logic-should-reside-in-the-view-model-and-how|TO DO|
-|MarcoSantaDevMvvmCSwift|Marco Santa Dev|https://marcosantadev.com/mvvmc-with-swift/|TO DO|
-|Msvps|Sonnino - The MVVM Pattern revisited with the MVVM Community Toolkit|https://blogs.msmvps.com/bsonnino/2022/08/06/the-mvvm-pattern-revisited-with-the-mvvm-community-toolkit-8-0/|TO DO|
-|WhatCouldGoWrongMvvmUnity|Bringing MVVM to Unity - part 1: About MVVM and Unity-Weld|https://www.what-could-possibly-go-wrong.com/bringing-mvvm-to-unity-part-1-about-mvvm-and-unity-weld/|TO DO|
-|AzamSharpMvvmNotForSwiftUi|AzamSharp - MVVM is NOT a good choice for building SwiftUI applications|https://azamsharp.com/2022/07/17/2022-swiftui-and-mvvm.html|TO DO|
-|FiveDotTwelveFlutterMvvm|FiveDotTwelve - Flutter architecture: implementing the MVVM pattern|https://fivedottwelve.com/blog/flutter-architecture-implementing-the-mvvm-pattern/|TO DO|
-|MarkHeathDevBlogMvvmWorthPain|Mark Heath's Development Blog - MVVM – Is it Worth the Pain?|https://markheath.net/post/mvvm-is-it-worth-pain|TO DO|
-|BhattBlogMvcMvpMvvm|Niraj Bhatt - Architect's Blog - MVC vs. MVP vs. MVVM|https://nirajrules.wordpress.com/2009/07/18/mvc-vs-mvp-vs-mvvm/|TO DO|
-|DevThoughtsMvvmToolkit|Developer Thoughts - MVVM – Made Easy with Microsoft MVVM Toolkit – Part 2|https://egvijayanand.in/2022/05/09/mvvm-made-easy-with-microsoft-mvvm-toolkit-part-2/|TO DO|
-|FirefinchDeepDiveMvvm|Firefinch Software - Deep Dive: MVVM in Real-World Applications, Part 1|https://firefinch.io/deep-dive-mvvm/|TO DO|
-|PaganiMvvmDependencyInjection|Matteo Pagani - The MVVM pattern: Dependency Injection|https://blog.qmatteoq.com/the-mvvm-pattern-dependency-injection/|TO DO|
-|SenchaHowWhyMvvmExtJs|Sencha - The How and Why of the MVVM Pattern in Ext JS|https://www.sencha.com/blog/how-and-why-of-extjs-mvvm-pattern/|TO DO|
-|PlanetGeekWhyMvvmNotEnough|planetgeek.ch - Why MVVM (Model View View-Model) Is Not Enough|https://www.planetgeek.ch/2009/08/30/why-mvvm-model-view-view-model-is-not-enough/|TO DO|
-|Mrlacey3ReasonsMvvm|mrlacey.com - 3 reasons to use the MVVM pattern|https://www.mrlacey.com/2017/04/3-reasons-to-use-mvvm-pattern.html|TO DO|
-|DanielHallProblemsMvvmIOS|danielhall.io - The Problems with MVVM on iOS|https://www.danielhall.io/the-problems-with-mvvm-on-ios|TO DO|
-|KhanlouMvvmNotVeryGood|Khanlou - MVVM is Not Very Good|https://khanlou.com/2015/12/mvvm-is-not-very-good/|TO DO|
-|MalcodedAngular2Mvvm|Malcoded - Is Angular 2+ MVVM?|https://malcoded.com/posts/angular-2-components-and-mvvm/|TO DO|
-|SwiftyPlaceMvvmImproveSwiftUI|SwiftyPlace - "Why MVVM can help you improve you SwiftUI project?"|https://www.swiftyplace.com/blog/swiftui-and-mvvm|TO DO|
-|TietzeMvvm|Christian Tietze - "Model–View–View Model (MVVM)"|https://christiantietze.de/wiki/mvvm/|TO DO|
-|JmorrillMvvmMeansToMe|Jmorrill - MVVM for Tarded Folks Like Me *or* MVVM and What it Means to Me|http://jmorrill.hjtcentral.com/Home/tabid/428/EntryId/432/MVVM-for-Tarded-Folks-Like-Me-or-MVVM-and-What-it-Means-to-Me.aspx|TO DO|
-|StackoverflowProblemsOfMvvm|Stack Overflow - What are the problems of the MVVM pattern|http://stackoverflow.com/questions/883895/what-are-the-problems-of-the-mvvm-pattern|TO DO|
-|QuoraProsConsMvvmMvc|Quora - Pros and cons of MVVM framework and how I can compare it with MVC?|https://www.quora.com/Pros-and-cons-of-MVVM-framework-and-how-I-can-campare-it-with-MVC|TO DO|
-|TechTargetMvcMvvm|TechTarget - MVC vs. MVVM: 2 architecture patterns for modularity|https://searchapparchitecture.techtarget.com/tip/MVC-vs-MVVM-2-architecture-patterns-for-modularity|TO DO|
-|TeehanLaxKrushIOS|Teehan+Lax - Krush iOS Architecture|http://www.teehanlax.com/blog/krush-ios-architecture/|TO DO|
-|UpdayBlogMvvmRxJavaMistakes|upday blog - MVVM + RxJava: Common Mistakes|http://csharperimage.jeremylikness.com/2010/04/model-view-viewmodel-mvvm-explained.html|TO DO|
-|VogellaAndroidArchitectureMvpMvvm|Vogella - Android Architecture with MVP or MVVM|http://www.vogella.com/tutorials/AndroidArchitecture/article.html|TO DO|
-|LearnMicrosoftImplementingMvvmPrism|Microsoft Patterns & Practices - Implementing the MVVM Pattern Using the Prism Library|https://learn.microsoft.com/en-us/previous-versions/msp-n-p/gg405484(v=pandp.40)|TO DO|
-|LearnMicrosoftAdvancedMvvmPrism|Microsoft Patterns & Practices - Advanced MVVM Scenarios Using the Prism Library|https://learn.microsoft.com/en-us/previous-versions/msp-n-p/gg405494(v=pandp.40)|TO DO|
-|MsdnMagazineCommands|MSDN Magazine - Commands, RelayCommands and EventToCommand|https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/may/mvvm-commands-relaycommands-and-eventtocommand|TO DO|
-|CodeProjectMvcMvpMvvm|CodeProject - Model View Controller, Model View Presenter, and Model View ViewModel Design Patterns|https://www.codeproject.com/Articles/42830/Model-View-Controller-Model-View-Presenter-and-Mod|TO DO|
-|HackernoonMvcMvvmWebsiteDataModel|HackerNoon - MVC vs. MVVM: How a Website Communicates With Its Data Models|https://hackernoon.com/mvc-vs-mvvm-how-a-website-communicates-with-its-data-models-18553877bf7d|TO DO|
-|MediumIosArchitecturePatterns|Medium (by Bohdan Orlov) - iOS Architecture Patterns|https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52|TO DO|
-|JaggavarapuPresentationPatterns|Manoj Jaggavarapu - Presentation Patterns: MVC, MVP, PM, MVVM|https://manojjaggavarapu.wordpress.com/2012/05/02/presentation-patterns-mvc-mvp-pm-mvvm/|TO DO|
-|DzoneAngularTutorialMvcMvvm|DZone - Angular JS Tutorial – MVC and MVVM Design Patterns|https://dzone.com/articles/angularjs-tutorial-lesson-1|TO DO|
-|MEdiumAndroidPatternsMvvm|Medium - Android Architecture Patterns Part 3: Model-View-ViewModel|https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b|TO DO|
-|RjeEvolvingMvcMvvm|r.je - MVVM, MVC it's all just roman numerals to me|http://r.je/evolving-mvc-into-mvvm.html|TO DO|
-|DevToHumbleViewsProudViewModels|Humble Views, Proud ViewModels by Marcello Galhardo|https://dev.to/marcellogalhardo/humble-views-proud-viewmodels-od1|TO DO|
-|MediumAndroidWhyChooseMvvmOverMvp|Medium - Why to choose MVVM over MVP — Android Architecture|https://medium.com/android-news/why-to-choose-mvvm-over-mvp-android-architecture-33c0f2de5516|TO DO|
-|MsdnMultithreadingMvvm|Microsoft MSDN Magazine - Multithreading and Dispatching in MVVM Applications|https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/april/mvvm-multithreading-and-dispatching-in-mvvm-applications|TO DO|
-|AzoftMvvmAndroid|Azoft - Going with MVVM on Android via Data Binding|https://www.azoft.com/blog/mvvm-android-data-binding/|TO DO|
-|RealmIOSMvvmMvcViper|Realm - Good iOS Application Architecture: MVVM vs. MVC vs. VIPER|https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/|TO DO|
-|MediumIOSPatternMvcMvpMvvm|Medium - iOS design patterns — Part 1 (MVC, MVP, MVVM)|https://medium.com/swlh/ios-design-patterns-a9bd07818129|TO DO|
-|CodeProjectMvvmWinForms|CodeProject - MVVM (Model-View-ViewModel) Pattern For Windows Form Applications|https://www.codeproject.com/Articles/364485/MVVM-Model-View-ViewModel-Patte|TO DO|
-|CodeProjectsCommandsMvvm|CodeProject - Commands in MVVM|https://www.codeproject.com/Articles/274982/Commands-in-MVVM|TO DO|
-|ClimbTheLadderMvvmAndroidQA|Climb the Ladder - MVVM Android Interview Questions and Answers|https://climbtheladder.com/mvvm-android-interview-questions/|TO DO|
+|AndroidWaveFragmentCommViewModel|AndroidWave - Fragment Communication using ViewModel|2019-12|[https://androidwave.com/fragment-communication-usi...](https://androidwave.com/fragment-communication-using-viewmodel/)|Relevant|
+|AzoftMvvmAndroid|Azoft - Going with MVVM on Android via Data Binding|2015-12|[https://www.azoft.com/blog/mvvm-android-data-bindi...](https://www.azoft.com/blog/mvvm-android-data-binding/)|Relevant|
+|CanJsMvvm|CanJS - ViewModel|2018-10|[https://canjs.com/doc/can-component.prototype.View...](https://canjs.com/doc/can-component.prototype.ViewModel.html)|Relevant|
+|ClimbTheLadderMvvmAndroidQA|Climb the Ladder - MVVM Android Interview Questions and Answers|2022-08|[https://climbtheladder.com/mvvm-android-interview-...](https://climbtheladder.com/mvvm-android-interview-questions/)|Relevant|
+|CodeProjectsCommandsMvvm|CodeProject - Commands in MVVM|2012-12|[https://www.codeproject.com/Articles/274982/Comman...](https://www.codeproject.com/Articles/274982/Commands-in-MVVM)|Relevant|
+|DamirCornerAvoidAsyncViewModelCtor|Damir's Corner - Avoid async calls in view model constructors|2022-10|[https://www.damirscorner.com/blog/posts/20221021-A...](https://www.damirscorner.com/blog/posts/20221021-AvoidAsyncCallsInViewmodelConstructors.html)|Relevant|
+|DanielHallProblemsMvvmIOS|danielhall.io - The Problems with MVVM on iOS|2015-07|[https://www.danielhall.io/the-problems-with-mvvm-o...](https://www.danielhall.io/the-problems-with-mvvm-on-ios)|Relevant|
+|DevThoughtsMvvmToolkit|Developer Thoughts - MVVM – Made Easy with Microsoft MVVM Toolkit – Part 2|2022-05|[https://egvijayanand.in/2022/05/09/mvvm-made-easy-...](https://egvijayanand.in/2022/05/09/mvvm-made-easy-with-microsoft-mvvm-toolkit-part-2/)|Relevant|
+|DevToHumbleViewsProudViewModels|Humble Views, Proud ViewModels by Marcello Galhardo|2021-02|[https://dev.to/marcellogalhardo/humble-views-proud...](https://dev.to/marcellogalhardo/humble-views-proud-viewmodels-od1)|Relevant|
+|EvozonMvvmReactJs|Evozon - Model-View-ViewModel in ReactJS|2021-09|[https://www.evozon.com/model-view-viewmodel-in-rea...](https://www.evozon.com/model-view-viewmodel-in-reactjs/)|Relevant|
+|FirefinchDeepDiveMvvm|Firefinch Software - Deep Dive: MVVM in Real-World Applications, Part 1|2017-12|[https://firefinch.io/deep-dive-mvvm/](https://firefinch.io/deep-dive-mvvm/)|Relevant|
+|FiveDotTwelveFlutterMvvm|FiveDotTwelve - Flutter architecture: implementing the MVVM pattern|2022-02|[https://fivedottwelve.com/blog/flutter-architectur...](https://fivedottwelve.com/blog/flutter-architecture-implementing-the-mvvm-pattern/)|Relevant|
+|FreeCodeCampMvvmAndroidPro|freeCodeCamp - How to Use Model-View-ViewModel on Android Like a Pro|2020-12|[https://www.freecodecamp.org/news/model-view-viewm...](https://www.freecodecamp.org/news/model-view-viewmodel-android-tutorial/)|Relevant|
+|Guru99MvcVsMvvm|MVC vs MVVM - Difference Between Them|2020-05|[https://www.guru99.com/mvc-vs-mvvm.html](https://www.guru99.com/mvc-vs-mvvm.html)|Relevant|
+|HalfbitCompositeViewModel|Halfbit - Composite ViewModel|2020-06|[https://www.halfbit.de/posts/composite-viewmodel/](https://www.halfbit.de/posts/composite-viewmodel/)|Relevant|
+|KhanlouMvvmNotVeryGood|Khanlou - MVVM is Not Very Good|2015-12|[https://khanlou.com/2015/12/mvvm-is-not-very-good/](https://khanlou.com/2015/12/mvvm-is-not-very-good/)|Relevant|
+|LearnFromSakiViewModelHiearchy|learnfromsaki - Configuring ViewModel Hierarchy|2015-06|[https://learnfromsaki.com/configuring-viewmodel-hi...](https://learnfromsaki.com/configuring-viewmodel-hierarchy/)|Relevant|
+|LearnMicrosoftAdvancedMvvmPrism|Microsoft Patterns & Practices - Advanced MVVM Scenarios Using the Prism Library|2014-05|[https://learn.microsoft.com/en-us/previous-version...](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/gg405494(v=pandp.40))|Relevant|
+|LearnMicrosoftImplementingMvvmPrism|Microsoft Patterns & Practices - Implementing the MVVM Pattern Using the Prism Library|2015-05|[https://learn.microsoft.com/en-us/previous-version...](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/gg405484(v=pandp.40))|Relevant|
+|LinkedInMvvmTrend|LinkedIn - "Is MVVM a fashion trend?" by Gregory Stein|2021-03|[https://www.linkedin.com/pulse/mvvm-fashion-trend-...](https://www.linkedin.com/pulse/mvvm-fashion-trend-gregory-stein)|Relevant|
+|ManferdiniMvvmSwift|Matteo Manferdini - MVVM Design Pattern in iOS with Swift|2020-11|[https://matteomanferdini.com/mvvm-pattern-ios-swif...](https://matteomanferdini.com/mvvm-pattern-ios-swift/)|Relevant|
+|MarcoSantaDevMvvmCSwift|Marco Santa Dev|2017-03|[https://marcosantadev.com/mvvmc-with-swift/](https://marcosantadev.com/mvvmc-with-swift/)|Relevant|
+|MarkHeathDevBlogMvvmWorthPain|Mark Heath's Development Blog - MVVM – Is it Worth the Pain?|2010-10|[https://markheath.net/post/mvvm-is-it-worth-pain](https://markheath.net/post/mvvm-is-it-worth-pain)|Relevant|
+|MediumAndroidPatternsMvvm|Medium - Android Architecture Patterns Part 3: Model-View-ViewModel|2016-11|[https://medium.com/upday-devs/android-architecture...](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)|Relevant|
+|MediumIOSPatternMvcMvpMvvm|Medium - iOS design patterns — Part 1 (MVC, MVP, MVVM)|2017-11|[https://medium.com/swlh/ios-design-patterns-a9bd07...](https://medium.com/swlh/ios-design-patterns-a9bd07818129)|Relevant|
+|MercariViewModelInputsOutputs|Mercari Engineering Portal - Introducing ViewModel Inputs/Outputs: a modern approach to MVVM architecture|2019-06|[https://engineering.mercari.com/en/blog/entry/2019...](https://engineering.mercari.com/en/blog/entry/2019-06-12-120000/)|Relevant|
+|MsdnMultithreadingMvvm|Microsoft MSDN Magazine - Multithreading and Dispatching in MVVM Applications|2014-04|[https://learn.microsoft.com/en-us/archive/msdn-mag...](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/april/mvvm-multithreading-and-dispatching-in-mvvm-applications)|Relevant|
+|Msvps|Sonnino - The MVVM Pattern revisited with the MVVM Community Toolkit|2022-08|[https://blogs.msmvps.com/bsonnino/2022/08/06/the-m...](https://blogs.msmvps.com/bsonnino/2022/08/06/the-mvvm-pattern-revisited-with-the-mvvm-community-toolkit-8-0/)|Relevant|
+|NicksDotNetTravelsViewModelNavigationXamarin|Nick's .NET Travels - ViewModel to ViewModel Navigation in a Xamarin.Forms Application with Prism and MvvmCross|2019-03|[https://nicksnettravels.builttoroam.com/post-2019-...](https://nicksnettravels.builttoroam.com/post-2019-03-24-viewmodel-to-viewmodel-navigation-in-a-xamarinforms-application-with-prism-and-mvvmcross-aspx/)|Relevant|
+|PlanetGeekWhyMvvmNotEnough|planetgeek.ch - Why MVVM (Model View View-Model) Is Not Enough|2009-08|[https://www.planetgeek.ch/2009/08/30/why-mvvm-mode...](https://www.planetgeek.ch/2009/08/30/why-mvvm-model-view-view-model-is-not-enough/)|Relevant|
+|QuoraProsConsMvvmMvc|Quora - Pros and cons of MVVM framework and how I can compare it with MVC?|2011-11|[https://www.quora.com/Pros-and-cons-of-MVVM-framew...](https://www.quora.com/Pros-and-cons-of-MVVM-framework-and-how-I-can-campare-it-with-MVC)|Relevant|
+|RealmIOSMvvmMvcViper|Realm - Good iOS Application Architecture: MVVM vs. MVC vs. VIPER|2017-05|[https://academy.realm.io/posts/krzysztof-zablocki-...](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/)|Relevant|
+|RedditWhatIsMvvm|Reddit - "What is MVVM?"|2022-04|[https://www.reddit.com/r/csharp/comments/ttih4e/wh...](https://www.reddit.com/r/csharp/comments/ttih4e/what_is_mvvm/)|Relevant|
+|RjeEvolvingMvcMvvm|r.je - MVVM, MVC it's all just roman numerals to me|2010-11|[http://r.je/evolving-mvc-into-mvvm.html](http://r.je/evolving-mvc-into-mvvm.html)|Relevant|
+|Sagitec5wsMvvm|Sagitec - The 5W's of MVVM|2018-07|[https://www.sagitec.com/blog/the-5ws-of-mvvm](https://www.sagitec.com/blog/the-5ws-of-mvvm)|Relevant|
+|StackoverflowProblemsOfMvvm|Stack Overflow - What are the problems of the MVVM pattern|2009-05|[http://stackoverflow.com/questions/883895/what-are...](http://stackoverflow.com/questions/883895/what-are-the-problems-of-the-mvvm-pattern)|Relevant|
+|StylingAndroidViewModel|Styling Android - Architecture Components: ViewModel|2017-07|[https://blog.stylingandroid.com/architecture-compo...](https://blog.stylingandroid.com/architecture-components-viewmodel/)|Relevant|
+|SweStackExchange|Software Engineering Stack Exchange - In MVVM, how much of the business logic in View Model / Model|2022-03|[https://softwareengineering.stackexchange.com/ques...](https://softwareengineering.stackexchange.com/questions/437119/in-mvvm-how-much-of-the-business-logic-should-reside-in-the-view-model-and-how)|Relevant|
+|SweStackExchangeViewModelExactlyModel|Software Engineering Stack Exchange - Is that good idea to add ViewModel exactly same as Model|2015-08|[https://softwareengineering.stackexchange.com/ques...](https://softwareengineering.stackexchange.com/questions/293224/is-that-good-idea-to-add-viewmodel-exactly-same-as-model)|Relevant|
+|TechYourChanceDontAndroidViewModel|TechYourChance - You Don't Need Android ViewModel, Here is Why|2022-06|[https://www.techyourchance.com/you-dont-need-andro...](https://www.techyourchance.com/you-dont-need-android-viewmodel/)|Relevant|
+|TeehanLaxKrushIOS|Teehan+Lax - Krush iOS Architecture|2014-02|[http://www.teehanlax.com/blog/krush-ios-architectu...](http://www.teehanlax.com/blog/krush-ios-architecture/)|Relevant|
+|TietzeMvvm|Christian Tietze - "Model–View–View Model (MVVM)"|2022-08|[https://christiantietze.de/wiki/mvvm/](https://christiantietze.de/wiki/mvvm/)|Relevant|
+|UpdayBlogMvvmRxJavaMistakes|upday blog - MVVM + RxJava: Common Mistakes|2010-04|[http://csharperimage.jeremylikness.com/2010/04/mod...](http://csharperimage.jeremylikness.com/2010/04/model-view-viewmodel-mvvm-explained.html)|Relevant|
+|ZsmbEarlyLookAtViewModelSaveState|zsmb.co - An Early Look at ViewModel SavedState|2019-03|[https://zsmb.co/an-early-look-at-viewmodel-savedst...](https://zsmb.co/an-early-look-at-viewmodel-savedstate/)|Relevant|
+# Scholar Entries
+
+| Kind | Key | Name | URL | Status |
+| ---- | --- | ---- | --- | ------ |
+|Book|BuldingEnterpriseAppsWpfMvvm|Building enterprise applications with Windows Presentation Foundation and the model view ViewModel Pattern|2011|[https://dl.acm.org/doi/abs/10.5555/2011888](https://dl.acm.org/doi/abs/10.5555/2011888)|TO DO|
+|Book|DevelopersGuidePrism2011|Developer's Guide to Microsoft Prism 4: Building Modular MVVM Applications with Windows Presentation Foundation and Microsoft Silverlight|2011|[https://openlibrary.org/books/OL25215379M/Develope...](https://openlibrary.org/books/OL25215379M/Developer%27s_guide_to_Microsoft_Prism_4)|TO DO|
+|Book|Hall2010ProWpf|Pro WPF and Silverlight MVVM: Effective Application Development with Model-View-ViewModel|2010|[https://doi.org/10.1007/978-1-4302-3163-9](https://doi.org/10.1007/978-1-4302-3163-9)|TO DO|
+|Book|Kouraklis2016|MVVM in Delphi|2016|[https://doi.org/10.1007/978-1-4842-2214-0](https://doi.org/10.1007/978-1-4842-2214-0)|TO DO|
+|Book|MvvmSurvivalGuideSiddiqi2012|MVVM Survival Guide for Enterprise Architectures in Silverlight and WPF|2012|[https://www.packtpub.com/product/mvvm-survival-gui...](https://www.packtpub.com/product/mvvm-survival-guide-for-enterprise-architectures-in-silverlight-and-wpf/9781849683425)|TO DO|
+|Book|WinPhone8Essentials2013|Windows Phone 8 Application Development Essentials (A practical guide to creating a Windows Phone 8 application using C#, XAML, and MVVM)|2013|[http://thuvienso.bvu.edu.vn/handle/TVDHBRVT/19421](http://thuvienso.bvu.edu.vn/handle/TVDHBRVT/19421)|TO DO|
+|Book|iOSArchitecturePatternsMvxInSwift2023|iOS Architecture Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift|2023|[https://link.springer.com/book/10.1007/978-1-4842-...](https://link.springer.com/book/10.1007/978-1-4842-9069-9)|TO DO|
+|BookChapter|Anderson2012MvvmPattern|Pro Business Applications with Silverlight 5: The Model-View-ViewModel (MVVM) Design Pattern|2012|[https://doi.org/10.1007/978-1-4302-3501-9_13](https://doi.org/10.1007/978-1-4302-3501-9_13)|Relevant|
+|BookChapter|BeginningWin8AppXamlMvvm|Beginning Windows 8 Application Development: XAML Edition: Introducing MVVM|2012|[https://doi.org/10.1007/978-1-4302-4567-4_9](https://doi.org/10.1007/978-1-4302-4567-4_9)|TO DO|
+|BookChapter|BeginningWin8AppXamlStartViewModel|Beginning Windows 8 Application Development: XAML Edition: Starting the ViewModel|2012|[https://link.springer.com/chapter/10.1007/978-1-43...](https://link.springer.com/chapter/10.1007/978-1-4302-4567-4_10)|TO DO|
+|BookChapter|MishraMvvm2017|iOS Code Testing: The MVVM Architectural Pattern|2017|[https://doi.org/10.1007/978-1-4842-2689-6_3](https://doi.org/10.1007/978-1-4842-2689-6_3)|Relevant|
+|BookChapter|ProCsWpf2017|Pro C# 7: WPF Notifications, Validations, Commands, and MVVM|2017|[https://doi.org/10.1007/978-1-4842-3018-3_28](https://doi.org/10.1007/978-1-4842-3018-3_28)|TO DO|
+|BookChapter|UnoWinUiMvvm2022|Getting Started with the Uno Platform and WinUI 3: Model-View-ViewModel (MVVM)|2022|[https://doi.org/10.1007/978-1-4842-8248-9_8](https://doi.org/10.1007/978-1-4842-8248-9_8)|Relevant|
+|BookChapter|UsingMvvmLightXamarin2017|Using MVVM Light with your Xamarin Apps: Installing MVVM Light|2017|[https://doi.org/10.1007/978-1-4842-2475-5_1](https://doi.org/10.1007/978-1-4842-2475-5_1)|TO DO|
+|BookChapter|UsingMvvmLightXamarinFirstMvvmApp|Using MVVM Light with your Xamarin Apps: Your First MVVM Light Mobile App|2017|[https://doi.org/10.1007/978-1-4842-2475-5_2](https://doi.org/10.1007/978-1-4842-2475-5_2)|TO DO|
+|BookChapter|Win8MvvmPatternsImplViewModel2012|Windows 8 MVVM Patterns Revealed: Implementing the ViewModel|2012|[https://doi.org/10.1007/978-1-4302-4909-2_4](https://doi.org/10.1007/978-1-4302-4909-2_4)|TO DO|
+|Paper|IntroductionAdvancedMvcMvvmAspNet2014|Introduction, evolution, data binding & programming of Advanced Model View Controller (MVC) technology - Model-View-View-Model (MVVM) with ASP.NET 4.5 and above versions|2014|[https://www.ijert.org/introduction-evolution-data-...](https://www.ijert.org/introduction-evolution-data-binding-programming-of-advanced-model-view-controller-mvc-technology-model-view-view-model-mvvm-with-asp.net-4.5-and-above-versions)|TO DO|
+|Paper|LinkedDataModelXApproach2020|A Linked Data Model-View-* Approach for Decoupled Client-Server Applications|2020|[https://doi.org/10.1007/978-3-030-41407-8_5](https://doi.org/10.1007/978-3-030-41407-8_5)|TO DO|
+|Paper|MvvmDemostrationWpf2023|MVVM Demonstration Using C# WPF|2023|[https://www.researchgate.net/profile/Sudip-Chakrab...](https://www.researchgate.net/profile/Sudip-Chakraborty-15/publication/356987017_Google_Scholar_Citation_IJAEML/)|TO DO|
+|Paper|Wisnuadhi2020|Performance Comparison of Native Android Application on MVP and MVVM|2020|[10.2991/aer.k.201221.047](10.2991/aer.k.201221.047)|TO DO|
+|TechnicalReport|ApplyingMvvmAutisticChildren|Applying MVVM Pattern in Application Development to Help Autistic Children|2014|[http://repository.hneu.edu.ua/jspui/bitstream/1234...](http://repository.hneu.edu.ua/jspui/bitstream/123456789/9050/1/%D0%A2%D0%B5%D0%B7%D0%B8%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B5%D0%B9%20%D0%BC%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D1%97%20%D0%BD%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D1%97%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D1%96%D1%97%20%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D1%85%20%D0%B2%D1%87%D0%B5%D0%BD%D0%B8%D1%85,%20%D0%B0%D1%81%D0%BF%D1%96%D1%80%D0%B0%D0%BD%D1%82%D1%96%D0%B2%20%D1%82%D0%B0%20%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%96%D0%B2%202014.pdf#page=97)|Relevant|
+|TechnicalReport|ModernApproachesAndroidAppMvvmMvpViper2018|Modern Approaches to Android APP Architecture: MVVM, MVP, VIPER|2018|[https://elib.psu.by/handle/123456789/31705](https://elib.psu.by/handle/123456789/31705)|Relevant|
+|TechnicalReport|MvvmInSilverlight|Model-View-ViewModel In Silverlight 2 Apps|2009|[http://cgtweb1.tech.purdue.edu/courses/cgt456/Priv...](http://cgtweb1.tech.purdue.edu/courses/cgt456/Private/Readings/Silverlight07.pdf)|Relevant|
+|TechnicalReport|Zarifis2017|In-depth Survey of MVVM Web Application Frameworks|2017|[https://dbucsd.github.io/paperpdfs/2016_4.pdf](https://dbucsd.github.io/paperpdfs/2016_4.pdf)|Relevant|
+|Thesis|ComparisonNativeMultiplatformMvvm2022|A comparison of native and multiplatform development of mobile applications following the MVVM pattern|2022|[http://digilib.k.utb.cz/handle/10563/50928](http://digilib.k.utb.cz/handle/10563/50928)|Relevant|
+|Thesis|UsingMvvmEnhancedCrossPlatformRock2015|Using MVVM for enhanced cross platform development of mobile and desktop applications|2015|[https://diglib.tugraz.at/using-mvvm-for-enhanced-c...](https://diglib.tugraz.at/using-mvvm-for-enhanced-cross-platform-development-of-mobile-and-desktop-applications-2015)|Relevant|
