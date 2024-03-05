@@ -424,7 +424,7 @@
   </node>
   <node concept="1TIwiD" id="7fQvVxPbrt2">
     <property role="EcuMT" value="8356006588849174338" />
-    <property role="3GE5qa" value="source.criteria" />
+    <property role="3GE5qa" value="source.criteria.refs" />
     <property role="TrG5h" value="BenefitCriteriaRef" />
     <node concept="1TJgyj" id="7fQvVxPbrt8" role="1TKVEi">
       <property role="IQ2ns" value="8356006588849174344" />
@@ -435,7 +435,7 @@
   </node>
   <node concept="1TIwiD" id="7fQvVxPbrt4">
     <property role="EcuMT" value="8356006588849174340" />
-    <property role="3GE5qa" value="source.criteria" />
+    <property role="3GE5qa" value="source.criteria.refs" />
     <property role="TrG5h" value="ContraCriteriaRef" />
     <node concept="1TJgyj" id="7fQvVxPbrta" role="1TKVEi">
       <property role="IQ2ns" value="8356006588849174346" />
@@ -446,7 +446,7 @@
   </node>
   <node concept="1TIwiD" id="7fQvVxPbrt6">
     <property role="EcuMT" value="8356006588849174342" />
-    <property role="3GE5qa" value="source.criteria" />
+    <property role="3GE5qa" value="source.criteria.refs" />
     <property role="TrG5h" value="DesignCriteriaRef" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="7fQvVxPbrtc" role="1TKVEi">
@@ -457,6 +457,9 @@
     </node>
     <node concept="PrWs8" id="6F3jcaRDzh4" role="PzmwI">
       <ref role="PrY4T" node="6F3jcaRDzh2" resolve="IHasReason" />
+    </node>
+    <node concept="PrWs8" id="3ih1nJKxaqk" role="PzmwI">
+      <ref role="PrY4T" node="3ih1nJKxaqj" resolve="IHasSemantic" />
     </node>
   </node>
   <node concept="1TIwiD" id="7fQvVxPbVbX">
@@ -522,13 +525,37 @@
   </node>
   <node concept="PlHQZ" id="6F3jcaRDzh2">
     <property role="EcuMT" value="7693076987667428418" />
-    <property role="3GE5qa" value="source.criteria" />
+    <property role="3GE5qa" value="source.criteria.refs" />
     <property role="TrG5h" value="IHasReason" />
     <node concept="1TJgyj" id="6F3jcaRDzgN" role="1TKVEi">
       <property role="IQ2ns" value="7693076987667428403" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
       <property role="20kJfa" value="reason" />
       <ref role="20lvS9" to="zqge:2cLqkTm6vgh" resolve="Text" />
+    </node>
+  </node>
+  <node concept="25R3W" id="3ih1nJKuxoN">
+    <property role="3F6X1D" value="3787814791468946995" />
+    <property role="3GE5qa" value="source.criteria.refs" />
+    <property role="TrG5h" value="CriteriaRefSemantic" />
+    <node concept="25R33" id="3ih1nJKuxoO" role="25R1y">
+      <property role="3tVfz5" value="3787814791468946996" />
+      <property role="TrG5h" value="specializes" />
+    </node>
+    <node concept="25R33" id="3ih1nJKyMdc" role="25R1y">
+      <property role="3tVfz5" value="3787814791470064460" />
+      <property role="TrG5h" value="dependsOn" />
+      <property role="1L1pqM" value="depends on" />
+    </node>
+  </node>
+  <node concept="PlHQZ" id="3ih1nJKxaqj">
+    <property role="EcuMT" value="3787814791469639315" />
+    <property role="3GE5qa" value="source.criteria.refs" />
+    <property role="TrG5h" value="IHasSemantic" />
+    <node concept="1TJgyi" id="3ih1nJKuxoS" role="1TKVEl">
+      <property role="IQ2nx" value="3787814791468947000" />
+      <property role="TrG5h" value="semantic" />
+      <ref role="AX2Wp" node="3ih1nJKuxoN" resolve="CriteriaRefSemantic" />
     </node>
   </node>
 </model>
