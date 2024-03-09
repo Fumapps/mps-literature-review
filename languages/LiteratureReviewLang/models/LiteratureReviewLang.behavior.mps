@@ -2951,29 +2951,26 @@
             <property role="TrG5h" value="order" />
             <node concept="2ShNRf" id="3EulCriJtMc" role="33vP2m">
               <node concept="Tc6Ow" id="3EulCriOnB$" role="2ShVmc">
-                <node concept="Xl_RD" id="3EulCriOnBA" role="HW$Y0">
-                  <property role="Xl_RC" value="app_lifecycle" />
-                </node>
                 <node concept="Xl_RD" id="3EulCriOnBB" role="HW$Y0">
                   <property role="Xl_RC" value="commands_and_async" />
                 </node>
                 <node concept="Xl_RD" id="3EulCriOnBC" role="HW$Y0">
                   <property role="Xl_RC" value="view_interactions" />
                 </node>
-                <node concept="Xl_RD" id="3EulCriOnBD" role="HW$Y0">
-                  <property role="Xl_RC" value="communication" />
+                <node concept="Xl_RD" id="3EulCriOnBA" role="HW$Y0">
+                  <property role="Xl_RC" value="app_lifecycle" />
                 </node>
                 <node concept="Xl_RD" id="3EulCriOnBE" role="HW$Y0">
                   <property role="Xl_RC" value="navigation" />
                 </node>
-                <node concept="Xl_RD" id="3EulCriOnBF" role="HW$Y0">
-                  <property role="Xl_RC" value="formatting_localization" />
+                <node concept="Xl_RD" id="3EulCriOnBH" role="HW$Y0">
+                  <property role="Xl_RC" value="networking_clientserver" />
                 </node>
                 <node concept="Xl_RD" id="3EulCriOnBG" role="HW$Y0">
                   <property role="Xl_RC" value="view_viewmodel_relationships" />
                 </node>
-                <node concept="Xl_RD" id="3EulCriOnBH" role="HW$Y0">
-                  <property role="Xl_RC" value="networking_clientserver" />
+                <node concept="Xl_RD" id="3EulCriOnBF" role="HW$Y0">
+                  <property role="Xl_RC" value="formatting_localization" />
                 </node>
                 <node concept="Xl_RD" id="3EulCriOnBI" role="HW$Y0">
                   <property role="Xl_RC" value="viewmodel_abstractions" />
