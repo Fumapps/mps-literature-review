@@ -653,6 +653,63 @@
         <ref role="2I9WkF" to="fg5c:hCjQGZpcDE" resolve="LiteratureSource" />
       </node>
     </node>
+    <node concept="13i0hz" id="6f6RFzuQxWR" role="13h7CS">
+      <property role="TrG5h" value="getRejectedSources" />
+      <node concept="3Tm1VV" id="6f6RFzuQxWS" role="1B3o_S" />
+      <node concept="3clFbS" id="6f6RFzuQxWT" role="3clF47">
+        <node concept="3clFbF" id="6f6RFzuQxWU" role="3cqZAp">
+          <node concept="2OqwBi" id="6f6RFzuQxWV" role="3clFbG">
+            <node concept="2OqwBi" id="6f6RFzuQxWW" role="2Oq$k0">
+              <node concept="2OqwBi" id="6f6RFzuQxWX" role="2Oq$k0">
+                <node concept="2OqwBi" id="6f6RFzuQxWY" role="2Oq$k0">
+                  <node concept="13iPFW" id="6f6RFzuQxWZ" role="2Oq$k0" />
+                  <node concept="I4A8Y" id="6f6RFzuQxX0" role="2OqNvi" />
+                </node>
+                <node concept="2SmgA7" id="6f6RFzuQxX1" role="2OqNvi">
+                  <node concept="chp4Y" id="6f6RFzuQxX2" role="1dBWTz">
+                    <ref role="cht4Q" to="fg5c:hCjQGZpcDE" resolve="LiteratureSource" />
+                  </node>
+                </node>
+              </node>
+              <node concept="3zZkjj" id="6f6RFzuQxX3" role="2OqNvi">
+                <node concept="1bVj0M" id="6f6RFzuQxX4" role="23t8la">
+                  <node concept="3clFbS" id="6f6RFzuQxX5" role="1bW5cS">
+                    <node concept="3clFbF" id="6f6RFzuQxX6" role="3cqZAp">
+                      <node concept="17R0WA" id="6f6RFzuQz1R" role="3clFbG">
+                        <node concept="2OqwBi" id="6f6RFzuQxXb" role="3uHU7B">
+                          <node concept="37vLTw" id="6f6RFzuQxXc" role="2Oq$k0">
+                            <ref role="3cqZAo" node="6f6RFzuQxXe" resolve="it" />
+                          </node>
+                          <node concept="3TrcHB" id="6f6RFzuQxXd" role="2OqNvi">
+                            <ref role="3TsBF5" to="fg5c:IDbygglU8Q" resolve="reviewStatus" />
+                          </node>
+                        </node>
+                        <node concept="2OqwBi" id="6f6RFzuQxX8" role="3uHU7w">
+                          <node concept="1XH99k" id="6f6RFzuQxX9" role="2Oq$k0">
+                            <ref role="1XH99l" to="fg5c:IDbygglU8_" resolve="ReviewStatus" />
+                          </node>
+                          <node concept="2ViDtV" id="6f6RFzuQxXa" role="2OqNvi">
+                            <ref role="2ViDtZ" to="fg5c:IDbygglU8E" resolve="Reject" />
+                          </node>
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                  <node concept="gl6BB" id="6f6RFzuQxXe" role="1bW2Oz">
+                    <property role="TrG5h" value="it" />
+                    <node concept="2jxLKc" id="6f6RFzuQxXf" role="1tU5fm" />
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node concept="ANE8D" id="6f6RFzuQxXg" role="2OqNvi" />
+          </node>
+        </node>
+      </node>
+      <node concept="2I9FWS" id="6f6RFzuQxXh" role="3clF45">
+        <ref role="2I9WkF" to="fg5c:hCjQGZpcDE" resolve="LiteratureSource" />
+      </node>
+    </node>
     <node concept="13hLZK" id="IDbyggo0Zl" role="13h7CW">
       <node concept="3clFbS" id="IDbyggo0Zm" role="2VODD2" />
     </node>
