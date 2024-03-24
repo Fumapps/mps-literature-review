@@ -2,7 +2,7 @@
 
 This repository contains an language for multi-vocal literature review classification schemes.
 
-It also contains a concrete model `MvvmReview` for classifying ViewModel definitions.
+It also contains a concrete model `MvvmReview` for classifying MVVM design constructs and trade-offs.
 
 ## Setup
 
