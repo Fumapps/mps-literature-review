@@ -4,6 +4,8 @@ This repository contains an language for multi-vocal literature review classific
 
 It also contains a concrete model `MvvmReview` for classifying MVVM design constructs and trade-offs.
 
+![Screenshot](images/screenshot_model.png)
+
 ## Setup
 
 * install JetBrains MPS 2023.2
