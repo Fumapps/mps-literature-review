@@ -347,6 +347,16 @@
         </node>
       </node>
     </node>
+    <node concept="1TJgyi" id="3QAowlKmE5L" role="1TKVEl">
+      <property role="IQ2nx" value="4442345857946919281" />
+      <property role="TrG5h" value="criteriaKind" />
+      <ref role="AX2Wp" node="3QAowlKmAFA" resolve="DesignCriteriaKind" />
+    </node>
+    <node concept="1TJgyi" id="3QAowlKnEO6" role="1TKVEl">
+      <property role="IQ2nx" value="4442345857947184390" />
+      <property role="TrG5h" value="criteriaKindExplanation" />
+      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
+    </node>
   </node>
   <node concept="1TIwiD" id="7fQvVxPb3b4">
     <property role="EcuMT" value="8356006588849074884" />
@@ -560,6 +570,41 @@
       <property role="IQ2nx" value="3787814791468947000" />
       <property role="TrG5h" value="semantic" />
       <ref role="AX2Wp" node="3ih1nJKuxoN" resolve="CriteriaRefSemantic" />
+    </node>
+  </node>
+  <node concept="25R3W" id="3QAowlKmAFA">
+    <property role="3F6X1D" value="4442345857946905318" />
+    <property role="3GE5qa" value="source.criteria.enum" />
+    <property role="TrG5h" value="DesignCriteriaKind" />
+    <node concept="25R33" id="3QAowlKmAFB" role="25R1y">
+      <property role="3tVfz5" value="4442345857946905319" />
+      <property role="TrG5h" value="RestrictsStandardDefinition" />
+      <property role="1L1pqM" value="restricts standard MVVM rules" />
+    </node>
+    <node concept="25R33" id="3QAowlKmAFC" role="25R1y">
+      <property role="3tVfz5" value="4442345857946905320" />
+      <property role="TrG5h" value="ExtendsStandardDefinition" />
+      <property role="1L1pqM" value="extends standard MVVM by new rules" />
+    </node>
+    <node concept="25R33" id="3QAowlKnEO1" role="25R1y">
+      <property role="3tVfz5" value="4442345857947184385" />
+      <property role="TrG5h" value="RealizationGuideline" />
+      <property role="1L1pqM" value="realization guideline for an aspect mentioned by the MVVM standard rules" />
+    </node>
+    <node concept="25R33" id="3QAowlKoVAU" role="25R1y">
+      <property role="3tVfz5" value="4442345857947515322" />
+      <property role="TrG5h" value="ContradictsStandardDefinition" />
+      <property role="1L1pqM" value="contradicts standard MVVM rules" />
+    </node>
+    <node concept="25R33" id="3QAowlKoWxt" role="25R1y">
+      <property role="3tVfz5" value="4442345857947519069" />
+      <property role="TrG5h" value="DivergentConstruct" />
+      <property role="1L1pqM" value="divergents an intention/tip of a standard MVVM rule" />
+    </node>
+    <node concept="25R33" id="3QAowlKoXsl" role="25R1y">
+      <property role="3tVfz5" value="4442345857947522837" />
+      <property role="TrG5h" value="ConfirmingConstruct" />
+      <property role="1L1pqM" value="confirms/substantiates/clarifies an intention/tip of a standard MVVM rule" />
     </node>
   </node>
 </model>
