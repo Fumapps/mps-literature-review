@@ -222,6 +222,22 @@
     </node>
     <node concept="11bSqf" id="IDbyggnw$R" role="11c4hB">
       <node concept="3clFbS" id="IDbyggnw$S" role="2VODD2">
+        <node concept="3cpWs8" id="3QAowlKueCv" role="3cqZAp">
+          <node concept="3cpWsn" id="3QAowlKueCw" role="3cpWs9">
+            <property role="TrG5h" value="designConstructCounters" />
+            <node concept="3rvAFt" id="3QAowlKueCx" role="1tU5fm">
+              <node concept="3Tqbb2" id="3QAowlKueCy" role="3rvQeY">
+                <ref role="ehGHo" to="fg5c:7fQvVxPb3b3" resolve="DesignCriteria" />
+              </node>
+              <node concept="10Oyi0" id="3QAowlKueCz" role="3rvSg0" />
+            </node>
+            <node concept="2YIFZM" id="3QAowlKuf2G" role="33vP2m">
+              <ref role="37wK5l" to="fgc6:3QAowlKtJ61" resolve="calculateUsageCounters" />
+              <ref role="1Pybhc" to="fgc6:6aucakHw7ma" resolve="LiteratureSourceUniqueIdeaOverview" />
+              <node concept="117lpO" id="3QAowlKuf2H" role="37wK5m" />
+            </node>
+          </node>
+        </node>
         <node concept="lc7rE" id="6f6RFzuVnt5" role="3cqZAp">
           <node concept="la8eA" id="6f6RFzuVnt6" role="lcghm">
             <property role="lacIc" value="# Design Constructs" />
@@ -231,13 +247,13 @@
         </node>
         <node concept="lc7rE" id="6f6RFzuVnt9" role="3cqZAp">
           <node concept="la8eA" id="6f6RFzuVnta" role="lcghm">
-            <property role="lacIc" value="| Aspect Category | Sub Aspect | Construct Name | Filepath |" />
+            <property role="lacIc" value="| Design Aspect Topic | Design Aspect | Design Construct | Construct Kind | Filepath | Mentioned |" />
           </node>
           <node concept="l8MVK" id="6f6RFzuVntb" role="lcghm" />
         </node>
         <node concept="lc7rE" id="6f6RFzuVntc" role="3cqZAp">
           <node concept="la8eA" id="6f6RFzuVntd" role="lcghm">
-            <property role="lacIc" value="| --------------- | ---------- | -------------- | -------- |" />
+            <property role="lacIc" value="| ------------------- | ------------- | ---------------- | -------------- | -------- | --------- |" />
           </node>
           <node concept="l8MVK" id="6f6RFzuVnte" role="lcghm" />
         </node>
@@ -257,6 +273,9 @@
                       <ref role="1rvKf6" node="6f6RFzuZfw1" resolve="designConstruct" />
                       <node concept="37vLTw" id="6f6RFzuZfIU" role="1ryhcI">
                         <ref role="3cqZAo" node="6f6RFzuZdK9" resolve="it" />
+                      </node>
+                      <node concept="37vLTw" id="3QAowlKugFX" role="1ryhcI">
+                        <ref role="3cqZAo" node="3QAowlKueCw" resolve="designConstructCounters" />
                       </node>
                     </node>
                     <node concept="l8MVK" id="6f6RFzuZe3E" role="lcghm" />
@@ -1301,6 +1320,20 @@
             <node concept="17RlXB" id="6f6RFzv0NQx" role="2OqNvi" />
           </node>
         </node>
+        <node concept="3cpWs8" id="3QAowlKrpwE" role="3cqZAp">
+          <node concept="3cpWsn" id="3QAowlKrpwF" role="3cpWs9">
+            <property role="TrG5h" value="useCount" />
+            <node concept="10Oyi0" id="3QAowlKrpwG" role="1tU5fm" />
+            <node concept="3EllGN" id="3QAowlKtfR1" role="33vP2m">
+              <node concept="37vLTw" id="3QAowlKtfR2" role="3ElVtu">
+                <ref role="3cqZAo" node="6f6RFzuZfzH" resolve="node" />
+              </node>
+              <node concept="37vLTw" id="3QAowlKtfR3" role="3ElQJh">
+                <ref role="3cqZAo" node="3QAowlKtfkY" resolve="counters" />
+              </node>
+            </node>
+          </node>
+        </node>
         <node concept="lc7rE" id="6f6RFzuZk2C" role="3cqZAp">
           <node concept="la8eA" id="6f6RFzuZk2D" role="lcghm">
             <property role="lacIc" value="|" />
@@ -1339,6 +1372,22 @@
           <node concept="la8eA" id="6f6RFzuZk2U" role="lcghm">
             <property role="lacIc" value="|" />
           </node>
+          <node concept="l9hG8" id="3QAowlKrr7R" role="lcghm">
+            <node concept="2OqwBi" id="3QAowlKrsiD" role="lb14g">
+              <node concept="2OqwBi" id="3QAowlKrrIP" role="2Oq$k0">
+                <node concept="37vLTw" id="3QAowlKrrd0" role="2Oq$k0">
+                  <ref role="3cqZAo" node="6f6RFzuZfzH" resolve="node" />
+                </node>
+                <node concept="3TrcHB" id="3QAowlKrs2z" role="2OqNvi">
+                  <ref role="3TsBF5" to="fg5c:3QAowlKmE5L" resolve="criteriaKind" />
+                </node>
+              </node>
+              <node concept="24Tkf9" id="3QAowlKrsz7" role="2OqNvi" />
+            </node>
+          </node>
+          <node concept="la8eA" id="3QAowlKrqNX" role="lcghm">
+            <property role="lacIc" value="|" />
+          </node>
           <node concept="l9hG8" id="6f6RFzuZk2V" role="lcghm">
             <node concept="37vLTw" id="6f6RFzuZpDP" role="lb14g">
               <ref role="3cqZAo" node="1vcwUuUk7WC" resolve="filePathLink" />
@@ -1347,12 +1396,34 @@
           <node concept="la8eA" id="6f6RFzuZk34" role="lcghm">
             <property role="lacIc" value="|" />
           </node>
+          <node concept="l9hG8" id="3QAowlKrqdb" role="lcghm">
+            <node concept="3cpWs3" id="3QAowlKrqdc" role="lb14g">
+              <node concept="Xl_RD" id="3QAowlKrqdd" role="3uHU7w">
+                <property role="Xl_RC" value="" />
+              </node>
+              <node concept="37vLTw" id="3QAowlKrqde" role="3uHU7B">
+                <ref role="3cqZAo" node="3QAowlKrpwF" resolve="useCount" />
+              </node>
+            </node>
+          </node>
+          <node concept="la8eA" id="3QAowlKrqdf" role="lcghm">
+            <property role="lacIc" value="|" />
+          </node>
         </node>
       </node>
       <node concept="37vLTG" id="6f6RFzuZfzH" role="3clF46">
         <property role="TrG5h" value="node" />
         <node concept="3Tqbb2" id="6f6RFzuZfzG" role="1tU5fm">
           <ref role="ehGHo" to="fg5c:7fQvVxPb3b3" resolve="DesignCriteria" />
+        </node>
+      </node>
+      <node concept="37vLTG" id="3QAowlKtfkY" role="3clF46">
+        <property role="TrG5h" value="counters" />
+        <node concept="3rvAFt" id="3QAowlKtfkZ" role="1tU5fm">
+          <node concept="3Tqbb2" id="3QAowlKtfl0" role="3rvQeY">
+            <ref role="ehGHo" to="fg5c:7fQvVxPb3b3" resolve="DesignCriteria" />
+          </node>
+          <node concept="10Oyi0" id="3QAowlKtfl1" role="3rvSg0" />
         </node>
       </node>
     </node>
@@ -1369,7 +1440,7 @@
                 <property role="Xl_RC" value="benefits" />
               </node>
               <node concept="Xl_RD" id="6f6RFzv4Plf" role="3K4GZi">
-                <property role="Xl_RC" value="tradeoffs" />
+                <property role="Xl_RC" value="contras" />
               </node>
               <node concept="2OqwBi" id="6f6RFzv4NHM" role="3K4Cdx">
                 <node concept="37vLTw" id="6f6RFzv4Ntr" role="2Oq$k0">
@@ -1418,6 +1489,35 @@
             </node>
           </node>
         </node>
+        <node concept="3cpWs8" id="3QAowlKqR9J" role="3cqZAp">
+          <node concept="3cpWsn" id="3QAowlKqR9K" role="3cpWs9">
+            <property role="TrG5h" value="filePathLink" />
+            <node concept="17QB3L" id="3QAowlKqR9L" role="1tU5fm" />
+            <node concept="3cpWs3" id="3QAowlKqR9M" role="33vP2m">
+              <node concept="Xl_RD" id="3QAowlKqR9N" role="3uHU7w">
+                <property role="Xl_RC" value=")" />
+              </node>
+              <node concept="3cpWs3" id="3QAowlKqR9O" role="3uHU7B">
+                <node concept="3cpWs3" id="3QAowlKqR9P" role="3uHU7B">
+                  <node concept="3cpWs3" id="3QAowlKqR9Q" role="3uHU7B">
+                    <node concept="Xl_RD" id="3QAowlKqR9R" role="3uHU7B">
+                      <property role="Xl_RC" value="[" />
+                    </node>
+                    <node concept="37vLTw" id="3QAowlKqR9S" role="3uHU7w">
+                      <ref role="3cqZAo" node="6f6RFzv4M53" resolve="filePath" />
+                    </node>
+                  </node>
+                  <node concept="Xl_RD" id="3QAowlKqR9T" role="3uHU7w">
+                    <property role="Xl_RC" value="](" />
+                  </node>
+                </node>
+                <node concept="37vLTw" id="3QAowlKqR9U" role="3uHU7w">
+                  <ref role="3cqZAo" node="6f6RFzv4M53" resolve="filePath" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
         <node concept="3cpWs8" id="6f6RFzv4Eal" role="3cqZAp">
           <node concept="3cpWsn" id="6f6RFzv4Eao" role="3cpWs9">
             <property role="TrG5h" value="useCount" />
@@ -1451,7 +1551,7 @@
           </node>
           <node concept="l9hG8" id="6f6RFzv3ORF" role="lcghm">
             <node concept="37vLTw" id="6f6RFzv4MKk" role="lb14g">
-              <ref role="3cqZAo" node="6f6RFzv4M53" resolve="filePath" />
+              <ref role="3cqZAo" node="3QAowlKqR9K" resolve="filePathLink" />
             </node>
           </node>
           <node concept="la8eA" id="6f6RFzv3ORJ" role="lcghm">
