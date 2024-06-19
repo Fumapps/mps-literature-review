@@ -1,6 +1,6 @@
 # MPS Literature Review Language
 
-This repository contains an language for multi-vocal literature review classification schemes.
+This repository contains a language for multi-vocal literature review classification schemes.
 
 It also contains a concrete model `MvvmReview` for classifying MVVM design constructs and trade-offs.
 
