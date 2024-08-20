@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/701654011.svg)](https://zenodo.org/doi/10.5281/zenodo.13350489)
+
 # MPS Literature Review Language
 
 This repository contains a language for multi-vocal literature review classification schemes.
